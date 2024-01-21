@@ -1224,10 +1224,7 @@
   (junction (at 88.9 107.315) (diameter 0) (color 0 0 0 0)
     (uuid 0cd0bd6c-dfe8-4310-b792-0364cc5ad25c)
   )
-  (junction (at 33.02 90.805) (diameter 0) (color 0 0 0 0)
-    (uuid 137fe5f0-8435-44a4-880a-fedb3f5d0f33)
-  )
-  (junction (at 263.525 82.55) (diameter 0) (color 0 0 0 0)
+  (junction (at 263.525 99.06) (diameter 0) (color 0 0 0 0)
     (uuid 2b989793-e795-4141-a1d9-44901639a71c)
   )
   (junction (at 130.81 73.66) (diameter 0) (color 0 0 0 0)
@@ -1245,13 +1242,16 @@
   (junction (at 31.75 102.87) (diameter 0) (color 0 0 0 0)
     (uuid 3e6020a6-029f-426f-817e-dccae0e15039)
   )
-  (junction (at 263.525 80.01) (diameter 0) (color 0 0 0 0)
+  (junction (at 130.81 104.775) (diameter 0) (color 0 0 0 0)
+    (uuid 4043b89b-aa17-47e2-bf4f-3768e86cd5d7)
+  )
+  (junction (at 263.525 96.52) (diameter 0) (color 0 0 0 0)
     (uuid 413c4b76-3980-42bb-9bd8-6e187e38a99f)
   )
-  (junction (at 155.575 88.265) (diameter 0) (color 0 0 0 0)
+  (junction (at 155.575 104.775) (diameter 0) (color 0 0 0 0)
     (uuid 53255e82-a5d1-46e4-8156-bc305f696c9c)
   )
-  (junction (at 200.66 111.125) (diameter 0) (color 0 0 0 0)
+  (junction (at 200.66 127.635) (diameter 0) (color 0 0 0 0)
     (uuid 55ee5039-f1e2-42dc-8d3c-5a49f072dfb4)
   )
   (junction (at 130.81 77.47) (diameter 0) (color 0 0 0 0)
@@ -1260,11 +1260,8 @@
   (junction (at 113.03 88.265) (diameter 0) (color 0 0 0 0)
     (uuid 61b591bd-9ed8-497a-ba37-439a2d02b249)
   )
-  (junction (at 214.63 80.645) (diameter 0) (color 0 0 0 0)
+  (junction (at 214.63 97.155) (diameter 0) (color 0 0 0 0)
     (uuid 681884d2-6227-4f4e-b118-d0390d67b7e0)
-  )
-  (junction (at 36.83 85.725) (diameter 0) (color 0 0 0 0)
-    (uuid 7b16340c-e70e-4837-a500-cd23d9bfe325)
   )
   (junction (at 36.83 98.425) (diameter 0) (color 0 0 0 0)
     (uuid 870d35cb-8d5c-4880-b413-258fd66ed339)
@@ -1281,16 +1278,16 @@
   (junction (at 113.03 77.47) (diameter 0) (color 0 0 0 0)
     (uuid b4560838-4462-42e0-9537-9ab49ac0a29a)
   )
-  (junction (at 189.865 111.125) (diameter 0) (color 0 0 0 0)
+  (junction (at 189.865 127.635) (diameter 0) (color 0 0 0 0)
     (uuid b737548e-a6b5-45df-a322-94020dc22854)
   )
-  (junction (at 177.165 85.725) (diameter 0) (color 0 0 0 0)
+  (junction (at 177.165 102.235) (diameter 0) (color 0 0 0 0)
     (uuid b84104dd-bd98-4717-9471-fdedb12649b3)
   )
-  (junction (at 140.97 88.265) (diameter 0) (color 0 0 0 0)
+  (junction (at 140.97 104.775) (diameter 0) (color 0 0 0 0)
     (uuid cd4fca7b-ce87-41a6-a371-548a3faec2b5)
   )
-  (junction (at 263.525 90.17) (diameter 0) (color 0 0 0 0)
+  (junction (at 263.525 106.68) (diameter 0) (color 0 0 0 0)
     (uuid d063d3b1-1737-4152-a6e1-58a8dc07180d)
   )
   (junction (at 113.03 54.61) (diameter 0) (color 0 0 0 0)
@@ -1299,26 +1296,26 @@
   (junction (at 113.03 64.77) (diameter 0) (color 0 0 0 0)
     (uuid e9da403b-45d8-42a4-b188-0567283f8ba1)
   )
-  (junction (at 226.06 86.995) (diameter 0) (color 0 0 0 0)
+  (junction (at 226.06 103.505) (diameter 0) (color 0 0 0 0)
     (uuid eb56eaf2-703b-458b-a645-ac590b8dc30f)
   )
   (junction (at 31.75 100.33) (diameter 0) (color 0 0 0 0)
     (uuid ec6dddf8-5f67-4e56-9dcf-0c46fc3fbfda)
   )
-  (junction (at 263.525 85.09) (diameter 0) (color 0 0 0 0)
+  (junction (at 263.525 101.6) (diameter 0) (color 0 0 0 0)
     (uuid ee654a9a-1464-47c0-96ff-30fbad1dd1d0)
   )
-  (junction (at 251.46 86.995) (diameter 0) (color 0 0 0 0)
+  (junction (at 251.46 103.505) (diameter 0) (color 0 0 0 0)
     (uuid f16f221b-6f47-4fe4-8f72-1ecc1dae686a)
   )
   (junction (at 109.22 107.315) (diameter 0) (color 0 0 0 0)
     (uuid f813d34f-3428-4267-94eb-2dd6ac7fb8e0)
   )
-  (junction (at 160.655 61.595) (diameter 0) (color 0 0 0 0)
+  (junction (at 160.655 78.105) (diameter 0) (color 0 0 0 0)
     (uuid f931a89e-cb05-4d61-b68d-1c52fb7eaad0)
   )
 
-  (wire (pts (xy 251.46 83.185) (xy 252.73 83.185))
+  (wire (pts (xy 251.46 99.695) (xy 252.73 99.695))
     (stroke (width 0) (type default))
     (uuid 0019d097-f3e0-4678-a942-9e2aa174f3fd)
   )
@@ -1326,7 +1323,7 @@
     (stroke (width 0) (type default))
     (uuid 02073b92-7a83-42c7-8914-79686d9345cf)
   )
-  (wire (pts (xy 200.66 111.125) (xy 189.865 111.125))
+  (wire (pts (xy 200.66 127.635) (xy 189.865 127.635))
     (stroke (width 0) (type default))
     (uuid 036e1bd7-91c5-4cf8-898d-df56476fbfc8)
   )
@@ -1338,27 +1335,27 @@
     (stroke (width 0) (type default))
     (uuid 08850791-928e-41a5-acc2-46037f8763f2)
   )
-  (wire (pts (xy 263.525 77.47) (xy 263.525 80.01))
+  (wire (pts (xy 263.525 93.98) (xy 263.525 96.52))
     (stroke (width 0) (type default))
     (uuid 0bf56b05-c71d-45e8-91c7-0d018dd57d32)
   )
-  (wire (pts (xy 251.46 86.995) (xy 251.46 88.265))
+  (wire (pts (xy 251.46 103.505) (xy 251.46 104.775))
     (stroke (width 0) (type default))
     (uuid 0f759227-772d-4b73-a5db-2b572f6a85b6)
   )
-  (wire (pts (xy 201.93 84.455) (xy 201.93 85.725))
+  (wire (pts (xy 201.93 100.965) (xy 201.93 102.235))
     (stroke (width 0) (type default))
     (uuid 11d8de05-6a05-4b60-8d4c-59e2bdf02c92)
   )
-  (wire (pts (xy 143.51 61.595) (xy 140.97 61.595))
+  (wire (pts (xy 143.51 78.105) (xy 140.97 78.105))
     (stroke (width 0) (type default))
     (uuid 13ceb0c0-2a22-4abd-9b9f-c02af5da2624)
   )
-  (wire (pts (xy 263.525 91.44) (xy 263.525 90.17))
+  (wire (pts (xy 263.525 107.95) (xy 263.525 106.68))
     (stroke (width 0) (type default))
     (uuid 15a79d04-b6f7-4b64-9d5b-117c72fefc52)
   )
-  (wire (pts (xy 132.08 88.265) (xy 130.81 88.265))
+  (wire (pts (xy 132.08 104.775) (xy 130.81 104.775))
     (stroke (width 0) (type default))
     (uuid 19c9d297-f768-4844-93ec-723936d6abd5)
   )
@@ -1374,11 +1371,11 @@
     (stroke (width 0) (type default))
     (uuid 240817fc-f62a-4783-a114-a1b126bf6475)
   )
-  (wire (pts (xy 260.985 85.09) (xy 263.525 85.09))
+  (wire (pts (xy 260.985 101.6) (xy 263.525 101.6))
     (stroke (width 0) (type default))
     (uuid 247f3632-ad82-4e6c-98e4-6b31b3926c18)
   )
-  (wire (pts (xy 140.97 88.265) (xy 140.97 89.535))
+  (wire (pts (xy 140.97 104.775) (xy 140.97 106.045))
     (stroke (width 0) (type default))
     (uuid 2638fa72-2bd1-464d-8219-2a2e4b77ad8e)
   )
@@ -1394,9 +1391,9 @@
     (stroke (width 0) (type default))
     (uuid 2d599642-929f-4cce-bf01-1f106008bef8)
   )
-  (wire (pts (xy 33.02 90.805) (xy 33.02 98.425))
+  (wire (pts (xy 33.02 88.265) (xy 33.02 98.425))
     (stroke (width 0) (type default))
-    (uuid 3f854d9e-ba39-4d97-9e17-8b3ee7480f8c)
+    (uuid 3c47efc6-d007-4bf1-8636-74708bbfd347)
   )
   (wire (pts (xy 30.48 97.79) (xy 31.75 97.79))
     (stroke (width 0) (type default))
@@ -1414,7 +1411,7 @@
     (stroke (width 0) (type default))
     (uuid 479b58d3-644b-4888-9fd2-98a3409f09ae)
   )
-  (wire (pts (xy 177.165 61.595) (xy 177.165 85.725))
+  (wire (pts (xy 177.165 78.105) (xy 177.165 102.235))
     (stroke (width 0) (type default))
     (uuid 4860e0ca-bda0-4a58-acd9-3073dc4ba83e)
   )
@@ -1422,11 +1419,11 @@
     (stroke (width 0) (type default))
     (uuid 49380b0f-b4ae-4f4a-989d-cfad193a306c)
   )
-  (wire (pts (xy 200.66 112.395) (xy 200.66 111.125))
+  (wire (pts (xy 200.66 128.905) (xy 200.66 127.635))
     (stroke (width 0) (type default))
     (uuid 4dd6d7c5-9b7d-4496-ab1f-a4831e372903)
   )
-  (wire (pts (xy 155.575 89.535) (xy 155.575 88.265))
+  (wire (pts (xy 155.575 106.045) (xy 155.575 104.775))
     (stroke (width 0) (type default))
     (uuid 51c6ec3d-0c0d-4ce2-8686-65bf45f129f1)
   )
@@ -1438,7 +1435,7 @@
     (stroke (width 0) (type default))
     (uuid 525e26f5-5dd0-4458-9a35-f080abd6eee7)
   )
-  (wire (pts (xy 140.97 61.595) (xy 140.97 88.265))
+  (wire (pts (xy 140.97 78.105) (xy 140.97 104.775))
     (stroke (width 0) (type default))
     (uuid 53318b48-b742-4c85-9ad3-062e45c870c0)
   )
@@ -1446,9 +1443,9 @@
     (stroke (width 0) (type default))
     (uuid 5354bce9-a244-4534-ae27-65a16e927eb5)
   )
-  (wire (pts (xy 33.02 88.265) (xy 31.75 88.265))
+  (wire (pts (xy 36.83 85.725) (xy 36.83 86.995))
     (stroke (width 0) (type default))
-    (uuid 547705f3-6e72-4398-a3a8-389325d6997b)
+    (uuid 5db6e3eb-9d9d-4354-a04f-0a69d8d8c70f)
   )
   (wire (pts (xy 88.9 107.315) (xy 88.9 106.045))
     (stroke (width 0) (type default))
@@ -1462,7 +1459,7 @@
     (stroke (width 0) (type default))
     (uuid 66fc0872-c31c-463b-82d6-79c47851113a)
   )
-  (wire (pts (xy 263.525 90.17) (xy 263.525 87.63))
+  (wire (pts (xy 263.525 106.68) (xy 263.525 104.14))
     (stroke (width 0) (type default))
     (uuid 670a2f28-dcb5-44bb-a8ce-71568eef9b70)
   )
@@ -1470,7 +1467,7 @@
     (stroke (width 0) (type default))
     (uuid 693d95a1-3ff5-43fe-aa6f-8c9ae8485e82)
   )
-  (wire (pts (xy 226.06 85.725) (xy 226.06 86.995))
+  (wire (pts (xy 226.06 102.235) (xy 226.06 103.505))
     (stroke (width 0) (type default))
     (uuid 6b01358b-1f90-486f-b1c5-70fe7c655d5a)
   )
@@ -1478,15 +1475,11 @@
     (stroke (width 0) (type default))
     (uuid 6c1854b2-de44-4300-a922-73b0013dba1f)
   )
-  (wire (pts (xy 36.83 84.455) (xy 36.83 85.725))
-    (stroke (width 0) (type default))
-    (uuid 6c427d1a-7fb9-4e85-a92a-8fd313f8c0b6)
-  )
-  (wire (pts (xy 155.575 88.265) (xy 140.97 88.265))
+  (wire (pts (xy 155.575 104.775) (xy 140.97 104.775))
     (stroke (width 0) (type default))
     (uuid 6d3ca31d-2fb6-4193-b02b-187330959e3f)
   )
-  (wire (pts (xy 201.93 85.725) (xy 194.945 85.725))
+  (wire (pts (xy 201.93 102.235) (xy 194.945 102.235))
     (stroke (width 0) (type default))
     (uuid 6e35e9e8-1f8a-4b70-9354-3c68afad8b3f)
   )
@@ -1494,7 +1487,7 @@
     (stroke (width 0) (type default))
     (uuid 6e3e5d4d-9dc6-4f35-bd87-31a099bacac2)
   )
-  (wire (pts (xy 177.165 85.725) (xy 178.435 85.725))
+  (wire (pts (xy 177.165 102.235) (xy 178.435 102.235))
     (stroke (width 0) (type default))
     (uuid 70747613-eac3-4835-adce-ef0c9e1dba4e)
   )
@@ -1502,11 +1495,11 @@
     (stroke (width 0) (type default))
     (uuid 72a14014-b45a-4adb-8945-a28b72062c95)
   )
-  (wire (pts (xy 31.75 85.725) (xy 36.83 85.725))
+  (wire (pts (xy 36.83 83.185) (xy 36.83 81.915))
     (stroke (width 0) (type default))
-    (uuid 73b3b54f-6a92-45d1-992e-3190eb387602)
+    (uuid 79ae90e5-c601-49e1-9ef3-bf85042eb2d7)
   )
-  (wire (pts (xy 160.655 61.595) (xy 160.655 83.185))
+  (wire (pts (xy 160.655 78.105) (xy 160.655 99.695))
     (stroke (width 0) (type default))
     (uuid 7a77601f-7487-48f4-be86-dd809196096e)
   )
@@ -1514,15 +1507,23 @@
     (stroke (width 0) (type default))
     (uuid 80e86ada-d479-4d14-b374-e6a47e76634d)
   )
+  (wire (pts (xy 36.83 97.155) (xy 36.83 98.425))
+    (stroke (width 0) (type default))
+    (uuid 8252248a-e9cd-4b90-a458-6eb96e4428a2)
+  )
+  (wire (pts (xy 31.75 88.265) (xy 33.02 88.265))
+    (stroke (width 0) (type default))
+    (uuid 84124c2c-d2a7-42b4-ab76-dbde7a2773e6)
+  )
   (wire (pts (xy 54.61 102.235) (xy 54.61 100.965))
     (stroke (width 0) (type default))
     (uuid 846a4ed7-9ba0-489c-86f2-b7aec8e5a3a5)
   )
-  (wire (pts (xy 189.865 111.125) (xy 189.865 112.395))
+  (wire (pts (xy 189.865 127.635) (xy 189.865 128.905))
     (stroke (width 0) (type default))
     (uuid 853c4bdc-6a33-4078-8502-f65c1442c5c3)
   )
-  (wire (pts (xy 200.66 102.235) (xy 200.66 111.125))
+  (wire (pts (xy 200.66 118.745) (xy 200.66 127.635))
     (stroke (width 0) (type default))
     (uuid 8971b97e-e349-4dc6-a93d-0159e6326753)
   )
@@ -1530,7 +1531,7 @@
     (stroke (width 0) (type default))
     (uuid 8d118e95-f3ce-4569-92b8-8fbbc4aba487)
   )
-  (wire (pts (xy 263.525 82.55) (xy 263.525 85.09))
+  (wire (pts (xy 263.525 99.06) (xy 263.525 101.6))
     (stroke (width 0) (type default))
     (uuid 8d777f48-cfcf-4645-8c63-66868ada88d3)
   )
@@ -1542,10 +1543,6 @@
     (stroke (width 0) (type default))
     (uuid 948ce1b5-e0ca-4908-9fbf-1717d0c3a1a7)
   )
-  (wire (pts (xy 33.02 90.805) (xy 31.75 90.805))
-    (stroke (width 0) (type default))
-    (uuid 98f5f510-99cd-49df-8bd9-27d30c2c93b8)
-  )
   (wire (pts (xy 30.48 105.41) (xy 31.75 105.41))
     (stroke (width 0) (type default))
     (uuid 9a4940d8-da2d-4e4e-9d83-3b5167e127e5)
@@ -1554,7 +1551,7 @@
     (stroke (width 0) (type default))
     (uuid 9bcc7139-030c-46af-aa73-fc7cf1e1363b)
   )
-  (wire (pts (xy 263.525 90.17) (xy 264.795 90.17))
+  (wire (pts (xy 263.525 106.68) (xy 264.795 106.68))
     (stroke (width 0) (type default))
     (uuid 9da99474-1f8f-4741-a819-3a372affc500)
   )
@@ -1562,11 +1559,11 @@
     (stroke (width 0) (type default))
     (uuid 9f05c786-16e6-4757-9cdf-a8dd85de703e)
   )
-  (wire (pts (xy 226.06 86.995) (xy 226.06 88.265))
+  (wire (pts (xy 226.06 103.505) (xy 226.06 104.775))
     (stroke (width 0) (type default))
     (uuid a204a146-9789-4fdf-a61b-ba5b6e3d5860)
   )
-  (wire (pts (xy 263.525 80.01) (xy 263.525 82.55))
+  (wire (pts (xy 263.525 96.52) (xy 263.525 99.06))
     (stroke (width 0) (type default))
     (uuid a2227928-7803-4574-a0f0-43fe7e137bc4)
   )
@@ -1574,7 +1571,7 @@
     (stroke (width 0) (type default))
     (uuid a2476372-d340-4c79-a202-af5c7d5df3e7)
   )
-  (wire (pts (xy 213.36 80.645) (xy 214.63 80.645))
+  (wire (pts (xy 213.36 97.155) (xy 214.63 97.155))
     (stroke (width 0) (type default))
     (uuid a26f44de-7b73-4e79-accb-db7932a71e0e)
   )
@@ -1582,19 +1579,19 @@
     (stroke (width 0) (type default))
     (uuid a408d2a9-0670-4ad8-ba0e-c2f85bf31e86)
   )
-  (wire (pts (xy 263.525 80.01) (xy 264.795 80.01))
+  (wire (pts (xy 263.525 96.52) (xy 264.795 96.52))
     (stroke (width 0) (type default))
     (uuid a4203be4-795d-46a9-9c7c-4d4c579e6c4b)
   )
-  (wire (pts (xy 264.795 87.63) (xy 263.525 87.63))
+  (wire (pts (xy 264.795 104.14) (xy 263.525 104.14))
     (stroke (width 0) (type default))
     (uuid a911dea4-232d-4f57-93f2-0d8a0cbfa70d)
   )
-  (wire (pts (xy 251.46 83.185) (xy 251.46 45.72))
+  (wire (pts (xy 251.46 99.695) (xy 251.46 45.72))
     (stroke (width 0) (type default))
     (uuid a99305a7-2c90-4786-9070-0108456a0ddc)
   )
-  (wire (pts (xy 186.055 85.725) (xy 187.325 85.725))
+  (wire (pts (xy 186.055 102.235) (xy 187.325 102.235))
     (stroke (width 0) (type default))
     (uuid aadfe20b-067d-4fdd-bd31-779fb60e43f9)
   )
@@ -1606,7 +1603,7 @@
     (stroke (width 0) (type default))
     (uuid affc8ab8-0d98-4140-bfde-750b50351bd2)
   )
-  (wire (pts (xy 251.46 86.995) (xy 252.73 86.995))
+  (wire (pts (xy 251.46 103.505) (xy 252.73 103.505))
     (stroke (width 0) (type default))
     (uuid b0c62999-d497-4e5a-9732-e09e25df14b7)
   )
@@ -1618,7 +1615,7 @@
     (stroke (width 0) (type default))
     (uuid b3c335f5-e825-4589-8782-acdf2539d8e3)
   )
-  (wire (pts (xy 226.06 86.995) (xy 234.95 86.995))
+  (wire (pts (xy 226.06 103.505) (xy 234.95 103.505))
     (stroke (width 0) (type default))
     (uuid b3f3e755-72a4-436f-8a0f-1461aece6dcc)
   )
@@ -1626,11 +1623,11 @@
     (stroke (width 0) (type default))
     (uuid b52a8f33-f5fe-4c35-bfbc-2b795917e92b)
   )
-  (wire (pts (xy 177.165 85.725) (xy 175.895 85.725))
+  (wire (pts (xy 177.165 102.235) (xy 175.895 102.235))
     (stroke (width 0) (type default))
     (uuid b6572e76-1ec5-48c8-9fba-7a8accc4391d)
   )
-  (wire (pts (xy 250.19 86.995) (xy 251.46 86.995))
+  (wire (pts (xy 250.19 103.505) (xy 251.46 103.505))
     (stroke (width 0) (type default))
     (uuid b7236097-4d15-44fd-af3c-4d8e6ef6704c)
   )
@@ -1646,15 +1643,15 @@
     (stroke (width 0) (type default))
     (uuid bcd1db60-9ad7-46da-a598-1c7ea19127f3)
   )
-  (wire (pts (xy 264.795 82.55) (xy 263.525 82.55))
+  (wire (pts (xy 264.795 99.06) (xy 263.525 99.06))
     (stroke (width 0) (type default))
     (uuid befdc3ca-fd9d-441e-8e1d-7f4e345b712c)
   )
-  (wire (pts (xy 155.575 88.265) (xy 160.655 88.265))
+  (wire (pts (xy 155.575 104.775) (xy 160.655 104.775))
     (stroke (width 0) (type default))
     (uuid bfa59529-e43a-4cb5-bb90-6183ef7c0e25)
   )
-  (wire (pts (xy 264.795 77.47) (xy 263.525 77.47))
+  (wire (pts (xy 264.795 93.98) (xy 263.525 93.98))
     (stroke (width 0) (type default))
     (uuid c1e86f6e-a099-491b-9cd9-28dfe101c447)
   )
@@ -1666,17 +1663,9 @@
     (stroke (width 0) (type default))
     (uuid c3577970-53b0-4fa3-a27b-dbba41440e88)
   )
-  (wire (pts (xy 36.83 85.725) (xy 36.83 86.995))
-    (stroke (width 0) (type default))
-    (uuid c4eee219-85cb-45d1-a6df-e4e1d1165cd6)
-  )
   (wire (pts (xy 77.47 100.965) (xy 81.28 100.965))
     (stroke (width 0) (type default))
     (uuid c4fce2fa-4428-4aeb-abf4-cdb422ce666a)
-  )
-  (wire (pts (xy 33.02 88.265) (xy 33.02 90.805))
-    (stroke (width 0) (type default))
-    (uuid c760681f-bfd4-4913-9536-c24ceffb60e2)
   )
   (wire (pts (xy 67.31 100.965) (xy 68.58 100.965))
     (stroke (width 0) (type default))
@@ -1694,15 +1683,15 @@
     (stroke (width 0) (type default))
     (uuid d46ccd3c-5fd8-47ad-a661-88f18b29e858)
   )
-  (wire (pts (xy 263.525 85.09) (xy 264.795 85.09))
+  (wire (pts (xy 263.525 101.6) (xy 264.795 101.6))
     (stroke (width 0) (type default))
     (uuid d4b315f2-78e5-4ccd-8389-f08e272dc974)
   )
-  (wire (pts (xy 151.13 61.595) (xy 160.655 61.595))
+  (wire (pts (xy 151.13 78.105) (xy 160.655 78.105))
     (stroke (width 0) (type default))
     (uuid d4e7357a-0e31-4e01-a5ac-319911dda86b)
   )
-  (wire (pts (xy 189.865 109.855) (xy 189.865 111.125))
+  (wire (pts (xy 189.865 126.365) (xy 189.865 127.635))
     (stroke (width 0) (type default))
     (uuid d5887977-dde1-442f-b897-0cc68b78a2b8)
   )
@@ -1718,13 +1707,13 @@
     (stroke (width 0) (type default))
     (uuid d9f75615-916f-400e-94a8-75b742119bf0)
   )
-  (wire (pts (xy 139.7 88.265) (xy 140.97 88.265))
+  (wire (pts (xy 139.7 104.775) (xy 140.97 104.775))
     (stroke (width 0) (type default))
     (uuid da26a50f-fbcc-446c-bdfe-1e81e3e080df)
   )
-  (wire (pts (xy 36.83 97.155) (xy 36.83 98.425))
+  (wire (pts (xy 31.75 83.185) (xy 36.83 83.185))
     (stroke (width 0) (type default))
-    (uuid dc7c7bda-a468-41bc-bd7c-365556bcb9d8)
+    (uuid dc003680-c915-451d-b68e-9280a1df1388)
   )
   (wire (pts (xy 49.53 104.775) (xy 49.53 121.285))
     (stroke (width 0) (type default))
@@ -1734,7 +1723,7 @@
     (stroke (width 0) (type default))
     (uuid e04a48d3-000f-4e4f-be6c-8bd6e6fc0c8a)
   )
-  (wire (pts (xy 214.63 80.645) (xy 218.44 80.645))
+  (wire (pts (xy 214.63 97.155) (xy 218.44 97.155))
     (stroke (width 0) (type default))
     (uuid e0ef33c8-4c25-42a6-8369-3d053e2c05cb)
   )
@@ -1742,15 +1731,19 @@
     (stroke (width 0) (type default))
     (uuid e22b1c2d-c8e8-4d36-9a85-4a0d1a0c1ee1)
   )
+  (wire (pts (xy 31.75 85.725) (xy 36.83 85.725))
+    (stroke (width 0) (type default))
+    (uuid e2f5a489-8ac5-484a-95af-3f764459486b)
+  )
   (wire (pts (xy 125.73 64.77) (xy 130.81 64.77))
     (stroke (width 0) (type default))
     (uuid e4aa40b7-1d3d-4589-88eb-2c123828d47a)
   )
-  (wire (pts (xy 172.72 61.595) (xy 177.165 61.595))
+  (wire (pts (xy 172.72 78.105) (xy 177.165 78.105))
     (stroke (width 0) (type default))
     (uuid ecb3fe86-ed25-4970-89b5-67629f0292f2)
   )
-  (wire (pts (xy 160.655 61.595) (xy 165.1 61.595))
+  (wire (pts (xy 160.655 78.105) (xy 165.1 78.105))
     (stroke (width 0) (type default))
     (uuid f33c1678-66d2-4f30-bec1-9557b0c7dd98)
   )
@@ -1758,7 +1751,7 @@
     (stroke (width 0) (type default))
     (uuid f3b9befd-db27-4ff8-9579-fdc6103a8824)
   )
-  (wire (pts (xy 214.63 80.645) (xy 214.63 81.915))
+  (wire (pts (xy 214.63 97.155) (xy 214.63 98.425))
     (stroke (width 0) (type default))
     (uuid f53655db-0cd6-436a-a593-9fd65cd15b95)
   )
@@ -1775,7 +1768,7 @@
     (uuid fd9d453b-b2f3-4ca4-a8ae-094aabe5f996)
   )
 
-  (text "TONE" (at 145.415 55.88 0)
+  (text "TONE" (at 145.415 72.39 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 2088360c-2ddc-43f6-844f-019620015674)
   )
@@ -1783,30 +1776,30 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8073d9bb-b4c4-46f7-8313-37fbbb21a519)
   )
-  (text "LEVEL\n" (at 194.945 77.47 0)
+  (text "LEVEL\n" (at 194.945 93.98 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 9e816af2-ff18-4ed5-bbd0-e675e2934ca7)
   )
 
-  (symbol (lib_id "Device:R_US") (at 226.06 92.075 0) (unit 1)
+  (symbol (lib_id "Device:R_US") (at 226.06 108.585 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 005a7f7f-e429-4093-a76f-5566eb5e2b16)
-    (property "Reference" "R9" (at 227.965 90.8049 0)
+    (property "Reference" "R9" (at 227.965 107.3149 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10k" (at 227.965 93.3449 0)
+    (property "Value" "10k" (at 227.965 109.8549 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" (at 227.076 92.329 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" (at 227.076 108.839 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 226.06 92.075 0)
+    (property "Datasheet" "~" (at 226.06 108.585 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 7ca684a8-99a7-4af9-8ce9-80763493d5cd))
     (pin "2" (uuid 45d8486c-3960-4bd3-8f2a-484d64a41c57))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "R9") (unit 1)
         )
@@ -1831,7 +1824,7 @@
     )
     (pin "1" (uuid 1ee58adf-ac95-41b6-8f76-cf676ffee101))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "#PWR05") (unit 1)
         )
@@ -1839,24 +1832,24 @@
     )
   )
 
-  (symbol (lib_id "power:+9V") (at 36.83 84.455 0) (unit 1)
+  (symbol (lib_id "power:+9V") (at 36.83 81.915 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 02b03cc0-d69e-4806-bd91-cfba03bfad1c)
-    (property "Reference" "#PWR03" (at 36.83 88.265 0)
+    (property "Reference" "#PWR03" (at 36.83 85.725 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "+9V" (at 36.83 80.645 0)
+    (property "Value" "+9V" (at 36.83 78.105 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 36.83 84.455 0)
+    (property "Footprint" "" (at 36.83 81.915 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 36.83 84.455 0)
+    (property "Datasheet" "" (at 36.83 81.915 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid bea20386-e44c-40cc-9592-52dcb6d8b800))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "#PWR03") (unit 1)
         )
@@ -1864,25 +1857,25 @@
     )
   )
 
-  (symbol (lib_id "Device:C") (at 209.55 80.645 90) (unit 1)
+  (symbol (lib_id "Device:C") (at 209.55 97.155 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 03d9249b-a655-44ee-8713-6cc0a4213a4b)
-    (property "Reference" "C3" (at 209.55 74.295 90)
+    (property "Reference" "C3" (at 209.55 90.805 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "100n film" (at 209.55 76.835 90)
+    (property "Value" "100n film" (at 209.55 93.345 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm" (at 213.36 79.6798 0)
+    (property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm" (at 213.36 96.1898 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 209.55 80.645 0)
+    (property "Datasheet" "~" (at 209.55 97.155 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 2852cdeb-5dea-4b84-9010-a00bfb8954ec))
     (pin "2" (uuid 91b70cc0-c1db-4c37-9c7f-9daa92718f40))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "C3") (unit 1)
         )
@@ -1890,24 +1883,24 @@
     )
   )
 
-  (symbol (lib_id "power:+4V") (at 214.63 89.535 180) (unit 1)
+  (symbol (lib_id "power:+4V") (at 214.63 106.045 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0af8946d-ce42-413a-bcaa-6ed43922539c)
-    (property "Reference" "#PWR027" (at 214.63 85.725 0)
+    (property "Reference" "#PWR027" (at 214.63 102.235 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "+4V" (at 214.63 93.98 0)
+    (property "Value" "+4V" (at 214.63 109.855 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 214.63 89.535 0)
+    (property "Footprint" "" (at 214.63 106.045 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 214.63 89.535 0)
+    (property "Datasheet" "" (at 214.63 106.045 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 961ba99c-942c-4389-9533-6f035f91e0dd))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "#PWR027") (unit 1)
         )
@@ -1940,7 +1933,7 @@
     (pin "8" (uuid 60257ca3-4915-4b20-bac8-b4820bc49eb3))
     (pin "9" (uuid 89c35acc-5f87-4435-b848-3939dfb4e373))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "SW1") (unit 1)
         )
@@ -1948,25 +1941,25 @@
     )
   )
 
-  (symbol (lib_id "Device:C_Polarized_US") (at 246.38 86.995 90) (unit 1)
+  (symbol (lib_id "Device:C_Polarized_US") (at 246.38 103.505 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0ddfd9f3-9ae1-4242-b215-0ec8b89ec5ca)
-    (property "Reference" "C5" (at 246.38 81.28 90)
+    (property "Reference" "C5" (at 246.38 97.79 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "10u" (at 246.38 83.185 90)
+    (property "Value" "10u" (at 246.38 99.695 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" (at 246.38 86.995 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" (at 246.38 103.505 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 246.38 86.995 0)
+    (property "Datasheet" "~" (at 246.38 103.505 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid f11c509b-f1e7-430c-8d74-c64d910d2187))
     (pin "2" (uuid a9ddbbec-cc2c-470b-a42f-d027fe451f83))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "C5") (unit 1)
         )
@@ -1974,25 +1967,25 @@
     )
   )
 
-  (symbol (lib_id "Device:R_US") (at 251.46 92.075 0) (unit 1)
+  (symbol (lib_id "Device:R_US") (at 251.46 108.585 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1af7d6b6-6c99-4384-9d6d-cb923fac9526)
-    (property "Reference" "R10" (at 253.365 90.8049 0)
+    (property "Reference" "R10" (at 253.365 107.3149 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10k" (at 253.365 93.3449 0)
+    (property "Value" "10k" (at 253.365 109.8549 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" (at 252.476 92.329 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" (at 252.476 108.839 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 251.46 92.075 0)
+    (property "Datasheet" "~" (at 251.46 108.585 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 2fb9c930-1c3e-42a3-bced-2636775fc0b5))
     (pin "2" (uuid b67729ef-743c-4f1d-9141-b4578dd99497))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "R10") (unit 1)
         )
@@ -2018,7 +2011,7 @@
     (pin "1" (uuid 7879232b-b440-40db-86a1-25e45922fcf8))
     (pin "2" (uuid 3de4b211-bf99-46bf-9b1a-b5aebd3a512c))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "C9") (unit 1)
         )
@@ -2044,7 +2037,7 @@
     (pin "1" (uuid 5c325403-93bf-422c-8720-3722bd6e9073))
     (pin "2" (uuid 2237192d-72fa-4c64-8f30-5ec50ea4f9b3))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "D3") (unit 1)
         )
@@ -2069,7 +2062,7 @@
     )
     (pin "1" (uuid c061951a-4562-41e7-b0ab-aaa327e364ff))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "#PWR018") (unit 1)
         )
@@ -2077,24 +2070,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 189.865 120.015 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 189.865 136.525 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 20835e92-92d0-48d1-8b0e-4e46a090bb68)
-    (property "Reference" "#PWR020" (at 189.865 126.365 0)
+    (property "Reference" "#PWR020" (at 189.865 142.875 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 189.865 123.825 0)
+    (property "Value" "GND" (at 189.865 140.335 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 189.865 120.015 0)
+    (property "Footprint" "" (at 189.865 136.525 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 189.865 120.015 0)
+    (property "Datasheet" "" (at 189.865 136.525 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid e802e6eb-c194-4eec-8cdc-1720611a6410))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "#PWR020") (unit 1)
         )
@@ -2126,7 +2119,7 @@
     (pin "1" (uuid f7a4ce5a-bd37-4303-ac05-8e0cea69c019))
     (pin "2" (uuid 1630478b-eec4-40b4-8560-4b6fd4532d20))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "D1") (unit 1)
         )
@@ -2134,25 +2127,25 @@
     )
   )
 
-  (symbol (lib_id "Device:C") (at 182.245 85.725 90) (unit 1)
+  (symbol (lib_id "Device:C") (at 182.245 102.235 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 23dfaaa6-d607-4725-9667-d8292183aa59)
-    (property "Reference" "C4" (at 182.245 80.01 90)
+    (property "Reference" "C4" (at 182.245 96.52 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "1u film" (at 182.245 81.915 90)
+    (property "Value" "1u film" (at 182.245 98.425 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm" (at 186.055 84.7598 0)
+    (property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm" (at 186.055 101.2698 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 182.245 85.725 0)
+    (property "Datasheet" "~" (at 182.245 102.235 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 484cb36b-a341-4ae8-9e70-53ceb57f9bd5))
     (pin "2" (uuid dc1b8093-6d49-49dd-aea7-c8eab38b484e))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "C4") (unit 1)
         )
@@ -2177,7 +2170,7 @@
     )
     (pin "1" (uuid b7ff4e74-5d00-46bc-ba7e-9732756e4b9f))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "#PWR015") (unit 1)
         )
@@ -2185,24 +2178,54 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 178.435 114.935 0) (unit 1)
+  (symbol (lib_id "Connector_Audio:AudioJack3_Switch") (at 269.875 101.6 180) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 2fc9fa76-c3f5-4197-8a24-3b8c631f30e0)
+    (property "Reference" "J3" (at 276.225 102.235 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Value" "Mono Out" (at 276.225 99.695 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Footprint" "Connector_Audio:Jack_6.35mm_Neutrik_NRJ6HM-1-AU_Horizontal" (at 269.875 101.6 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 269.875 101.6 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "R" (uuid 23dba0e6-c904-45f1-aa37-07c2c3b92f42))
+    (pin "RN" (uuid f6d56f9a-234d-4680-97b2-da421412b2bd))
+    (pin "S" (uuid d150f763-5d1d-4df2-8535-55404b1ad9a8))
+    (pin "SN" (uuid 32b72586-a16f-4ca8-a783-5e1ea1c266b9))
+    (pin "T" (uuid 2dfdd36b-8c60-4695-8585-e1caae290ef1))
+    (pin "TN" (uuid 648e01e3-af83-41a4-ab90-686f5f6e9867))
+    (instances
+      (project "Overdrive"
+        (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
+          (reference "J3") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:GND") (at 178.435 131.445 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 34aad778-00ab-494b-a66c-c09c3cee4e44)
-    (property "Reference" "#PWR017" (at 178.435 121.285 0)
+    (property "Reference" "#PWR017" (at 178.435 137.795 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 178.435 118.745 0)
+    (property "Value" "GND" (at 178.435 135.255 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 178.435 114.935 0)
+    (property "Footprint" "" (at 178.435 131.445 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 178.435 114.935 0)
+    (property "Datasheet" "" (at 178.435 131.445 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 2a80dc43-0617-4cc4-a56c-253a473543e0))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "#PWR017") (unit 1)
         )
@@ -2210,25 +2233,25 @@
     )
   )
 
-  (symbol (lib_id "Device:C_Polarized_US") (at 200.66 116.205 0) (unit 1)
+  (symbol (lib_id "Device:C_Polarized_US") (at 200.66 132.715 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3fe610c6-9666-4930-ab01-e89cf8c2c314)
-    (property "Reference" "C11" (at 203.835 114.2999 0)
+    (property "Reference" "C11" (at 203.835 130.8099 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "47u" (at 203.835 116.8399 0)
+    (property "Value" "47u" (at 203.835 133.3499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" (at 200.66 116.205 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" (at 200.66 132.715 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 200.66 116.205 0)
+    (property "Datasheet" "~" (at 200.66 132.715 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 1373bdac-362d-47f8-bdaf-69773f38624e))
     (pin "2" (uuid 22c4f631-e561-4721-a3d5-b7b2d14a85f1))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "C11") (unit 1)
         )
@@ -2254,7 +2277,7 @@
     (pin "1" (uuid 9bcb9cfb-ebb1-4d9c-a9b4-4b4f31b1b5e0))
     (pin "2" (uuid eb444a1a-cec8-49b0-8213-d64d9feb129c))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "R4") (unit 1)
         )
@@ -2263,12 +2286,12 @@
   )
 
   (symbol (lib_id "power:+4V") (at 107.95 69.85 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 47938c54-0b67-4e3c-b80f-ce534245d5e6)
     (property "Reference" "#PWR025" (at 107.95 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "+4V" (at 107.95 74.93 0)
+    (property "Value" "+4V" (at 107.95 74.295 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 107.95 69.85 0)
@@ -2279,7 +2302,7 @@
     )
     (pin "1" (uuid 59beddfc-3cd4-48a5-88bc-eb5992373105))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "#PWR025") (unit 1)
         )
@@ -2306,7 +2329,7 @@
     (pin "2" (uuid ac832c75-fa37-4a64-af1b-fcddf6b742f0))
     (pin "3" (uuid 324445d3-9a84-49c0-99a9-55b6924977c3))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "RV2") (unit 1)
         )
@@ -2314,35 +2337,35 @@
     )
   )
 
-  (symbol (lib_id "Simulation_SPICE:NPN") (at 223.52 80.645 0) (unit 1)
+  (symbol (lib_id "Simulation_SPICE:NPN") (at 223.52 97.155 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4918e1a1-c6e7-4941-978d-44e697fbe003)
-    (property "Reference" "Q1" (at 228.6 79.3749 0)
+    (property "Reference" "Q1" (at 228.6 95.8849 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "2N2222" (at 228.6 81.9149 0)
+    (property "Value" "2N2222" (at 228.6 98.4249 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_TO_SOT_THT:TO-92_Inline" (at 287.02 80.645 0)
+    (property "Footprint" "Package_TO_SOT_THT:TO-92_Inline" (at 287.02 97.155 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 287.02 80.645 0)
+    (property "Datasheet" "~" (at 287.02 97.155 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Sim.Device" "NPN" (at 223.52 80.645 0)
+    (property "Sim.Device" "NPN" (at 223.52 97.155 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Sim.Type" "GUMMELPOON" (at 223.52 80.645 0)
+    (property "Sim.Type" "GUMMELPOON" (at 223.52 97.155 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Sim.Pins" "1=C 2=B 3=E" (at 223.52 80.645 0)
+    (property "Sim.Pins" "1=C 2=B 3=E" (at 223.52 97.155 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 820f9831-9f80-4652-8027-658a8e66f318))
     (pin "2" (uuid 528a46a3-10b7-42be-9b5b-c7708a502d83))
     (pin "3" (uuid a44a0662-4c49-4f9e-b823-aa86ba6d8b80))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "Q1") (unit 1)
         )
@@ -2367,7 +2390,7 @@
     )
     (pin "1" (uuid b005f419-f951-46b6-be67-30287633393b))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "#PWR019") (unit 1)
         )
@@ -2375,24 +2398,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 251.46 95.885 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 251.46 112.395 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4d274712-2522-4a42-8c3b-8229ed55c9d8)
-    (property "Reference" "#PWR07" (at 251.46 102.235 0)
+    (property "Reference" "#PWR07" (at 251.46 118.745 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 251.46 99.695 0)
+    (property "Value" "GND" (at 251.46 116.205 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 251.46 95.885 0)
+    (property "Footprint" "" (at 251.46 112.395 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 251.46 95.885 0)
+    (property "Datasheet" "" (at 251.46 112.395 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid de6a32fe-ffdf-4592-a93b-421fc092fe04))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "#PWR07") (unit 1)
         )
@@ -2418,7 +2441,7 @@
     (pin "1" (uuid 8e6fab27-221f-40e6-a603-e2a3d93c29a0))
     (pin "2" (uuid f710edb3-6fe1-4ce2-9f3e-ec46d293dcf8))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "R17") (unit 1)
         )
@@ -2426,25 +2449,25 @@
     )
   )
 
-  (symbol (lib_id "Device:R_US") (at 189.865 116.205 0) (unit 1)
+  (symbol (lib_id "Device:R_US") (at 189.865 132.715 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 592acad6-5539-406f-8ce8-6b3d9cabbc09)
-    (property "Reference" "R18" (at 191.77 114.9349 0)
+    (property "Reference" "R18" (at 191.77 131.4449 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10k" (at 191.77 117.4749 0)
+    (property "Value" "10k" (at 191.77 133.9849 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" (at 190.881 116.459 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" (at 190.881 132.969 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 189.865 116.205 0)
+    (property "Datasheet" "~" (at 189.865 132.715 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 3f42b47e-95e5-46b6-b018-6458e65a1735))
     (pin "2" (uuid 92b45186-5def-410f-9485-17e410c37c65))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "R18") (unit 1)
         )
@@ -2452,25 +2475,25 @@
     )
   )
 
-  (symbol (lib_id "Device:R_US") (at 189.865 106.045 0) (unit 1)
+  (symbol (lib_id "Device:R_US") (at 189.865 122.555 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5a04eef3-1c58-4536-b445-cdba331756c3)
-    (property "Reference" "R15" (at 191.77 104.7749 0)
+    (property "Reference" "R15" (at 191.77 121.2849 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10k" (at 191.77 107.3149 0)
+    (property "Value" "10k" (at 191.77 123.8249 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" (at 190.881 106.299 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" (at 190.881 122.809 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 189.865 106.045 0)
+    (property "Datasheet" "~" (at 189.865 122.555 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid b7c4ae14-bf05-4940-8e63-20cd022569af))
     (pin "2" (uuid 40d877ab-8ccc-4e8f-b1c4-b083c561b4ce))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "R15") (unit 1)
         )
@@ -2478,26 +2501,26 @@
     )
   )
 
-  (symbol (lib_id "Connector:Barrel_Jack_Switch") (at 24.13 88.265 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+  (symbol (lib_id "Connector:Barrel_Jack_Switch") (at 24.13 85.725 0) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 5c04477b-e161-4fde-b1dd-2c24132e70d5)
-    (property "Reference" "J2" (at 24.13 80.01 0)
+    (property "Reference" "J2" (at 24.13 78.74 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Barrel_Jack_Switch" (at 24.13 82.55 0)
+    (property "Value" "Barrel_Jack_Switch" (at 24.13 80.645 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Connector_BarrelJack:BarrelJack_Horizontal" (at 25.4 89.281 0)
+    (property "Footprint" "Connector_BarrelJack:BarrelJack_Horizontal" (at 25.4 84.709 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 25.4 89.281 0)
+    (property "Datasheet" "~" (at 25.4 84.709 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 629a0261-97d0-40f6-9113-e7229eea760d))
     (pin "2" (uuid e9eb5af2-d29b-4e32-ac55-566af2eb7efe))
     (pin "3" (uuid 1f5bb1af-a0fe-4c10-8ceb-d845bc0a1fdb))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "J2") (unit 1)
         )
@@ -2505,26 +2528,26 @@
     )
   )
 
-  (symbol (lib_id "Device:R_Potentiometer_US") (at 147.32 61.595 270) (unit 1)
+  (symbol (lib_id "Device:R_Potentiometer_US") (at 147.32 78.105 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5cd1ca45-12ad-4625-8696-0f6e2b6e8e1d)
-    (property "Reference" "RV1" (at 147.32 57.15 90)
+    (property "Reference" "RV1" (at 147.32 73.66 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "B25k" (at 147.32 59.055 90)
+    (property "Value" "B25k" (at 147.32 75.565 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" (at 147.32 61.595 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" (at 147.32 78.105 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 147.32 61.595 0)
+    (property "Datasheet" "~" (at 147.32 78.105 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid ae05e1d9-1ed9-4ad4-93b0-468e750eae2f))
     (pin "2" (uuid f6767522-a904-43ad-9c3a-1b57f663fb0f))
     (pin "3" (uuid 118ab28d-bfa1-4a7a-987d-39df924bf7bd))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "RV1") (unit 1)
         )
@@ -2532,24 +2555,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 263.525 91.44 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 263.525 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5e4fc219-bfe9-4616-a6a7-4bb8c3df6bb0)
-    (property "Reference" "#PWR04" (at 263.525 97.79 0)
+    (property "Reference" "#PWR04" (at 263.525 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 263.525 95.25 0)
+    (property "Value" "GND" (at 263.525 111.76 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 263.525 91.44 0)
+    (property "Footprint" "" (at 263.525 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 263.525 91.44 0)
+    (property "Datasheet" "" (at 263.525 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 5e23fae0-52c5-4065-91bd-40c1b7f89033))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "#PWR04") (unit 1)
         )
@@ -2575,7 +2598,7 @@
     (pin "1" (uuid 03d96831-1f1c-42db-bcb2-5c2207e0defe))
     (pin "2" (uuid fc2ffdb2-79f3-415c-9478-261e8abb7589))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "R13") (unit 1)
         )
@@ -2601,7 +2624,7 @@
     (pin "1" (uuid c108e93a-31e2-4934-93a9-c68239bab1b3))
     (pin "2" (uuid 193063a2-6f01-4807-a76d-0fc0a5fe89bf))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "R14") (unit 1)
         )
@@ -2609,25 +2632,25 @@
     )
   )
 
-  (symbol (lib_id "Device:R_US") (at 135.89 88.265 90) (unit 1)
+  (symbol (lib_id "Device:R_US") (at 135.89 104.775 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 63c0266b-c3d7-49e1-800d-2dc643f9796d)
-    (property "Reference" "R8" (at 135.89 83.82 90)
+    (property "Reference" "R8" (at 135.89 100.33 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "1k" (at 135.89 85.725 90)
+    (property "Value" "1k" (at 135.89 102.235 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" (at 136.144 87.249 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" (at 136.144 103.759 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 135.89 88.265 0)
+    (property "Datasheet" "~" (at 135.89 104.775 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 7cc7eb18-4674-4eb7-8f5e-71671325b174))
     (pin "2" (uuid 38f00caf-2f4b-4e73-88a4-4606ceff3a0f))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "R8") (unit 1)
         )
@@ -2635,24 +2658,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 226.06 95.885 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 226.06 112.395 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 64a51a82-6fb5-4697-a0a8-e2d57a6000f9)
-    (property "Reference" "#PWR06" (at 226.06 102.235 0)
+    (property "Reference" "#PWR06" (at 226.06 118.745 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 226.06 99.695 0)
+    (property "Value" "GND" (at 226.06 116.205 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 226.06 95.885 0)
+    (property "Footprint" "" (at 226.06 112.395 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 226.06 95.885 0)
+    (property "Datasheet" "" (at 226.06 112.395 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 11ee684a-a5b1-4075-adbe-feee4afe1ca8))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "#PWR06") (unit 1)
         )
@@ -2684,7 +2707,7 @@
     (pin "4" (uuid c1273f8f-d016-4f65-bd70-6ed385da809b))
     (pin "8" (uuid af118b9d-bc12-4e08-b3a1-97cfd33ed912))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "U1") (unit 1)
         )
@@ -2692,25 +2715,25 @@
     )
   )
 
-  (symbol (lib_id "Device:R_US") (at 155.575 93.345 0) (unit 1)
+  (symbol (lib_id "Device:R_US") (at 155.575 109.855 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6c3a8268-6cbd-43af-a6c0-2546990969ad)
-    (property "Reference" "R11" (at 157.48 92.0749 0)
+    (property "Reference" "R11" (at 157.48 108.5849 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10k" (at 157.48 94.6149 0)
+    (property "Value" "10k" (at 157.48 111.1249 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" (at 156.591 93.599 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" (at 156.591 110.109 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 155.575 93.345 0)
+    (property "Datasheet" "~" (at 155.575 109.855 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 709cb456-3fbb-442e-a91d-4a2bf43d8c80))
     (pin "2" (uuid fdda626d-111e-4431-ad07-a720647692f7))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "R11") (unit 1)
         )
@@ -2735,7 +2758,7 @@
     )
     (pin "1" (uuid c4b2a83e-daf5-45e4-98d5-fe9d8932b1e4))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "#PWR022") (unit 1)
         )
@@ -2743,55 +2766,55 @@
     )
   )
 
-  (symbol (lib_id "Connector_Audio:AudioJack3_Switch") (at 269.875 82.55 0) (mirror y) (unit 1)
+  (symbol (lib_id "Connector_Audio:AudioJack3_Switch") (at 25.4 105.41 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
-    (uuid 741db1bd-56a7-4b32-9130-dace6d9a4833)
-    (property "Reference" "J4" (at 276.225 81.915 0)
+    (uuid 72b85348-78e5-4a5c-8e8b-309e313350c3)
+    (property "Reference" "J1" (at 16.51 107.315 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "Mono Out" (at 276.225 84.455 0)
+    (property "Value" "Stereo In" (at 18.415 110.49 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Connector_Audio:Jack_6.35mm_Neutrik_NRJ6HM-1-AU_Horizontal" (at 269.875 82.55 0)
+    (property "Footprint" "Connector_Audio:Jack_6.35mm_Neutrik_NRJ6HM-1-AU_Horizontal" (at 25.4 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 269.875 82.55 0)
+    (property "Datasheet" "~" (at 25.4 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "R" (uuid 40d8000e-43ac-41d5-85da-9efa2fa30ab4))
-    (pin "RN" (uuid fd06f268-62bc-4d7e-bc91-77da9861c68b))
-    (pin "S" (uuid 2ca063b4-d0d5-45dc-9410-59bedcd8a3ec))
-    (pin "SN" (uuid 79a63a9a-3f01-46df-b441-e171dfe44727))
-    (pin "T" (uuid 026743e4-3a0a-44aa-a09e-be3ee5b4ea2c))
-    (pin "TN" (uuid f6a58659-deb1-4a82-8074-250c1386bdb6))
+    (pin "R" (uuid 5043622b-3a3b-4dd0-832d-b205912290b7))
+    (pin "RN" (uuid e3708e63-c9e8-4096-afb5-b8dbe353320c))
+    (pin "S" (uuid 07727141-272a-4d86-bfc6-109cdef1ed65))
+    (pin "SN" (uuid c2102962-010e-4a8d-a2f9-7a440350e58c))
+    (pin "T" (uuid d3476eb0-4e00-49d1-af46-b3f1a3f824cb))
+    (pin "TN" (uuid ee0fc1ae-bebe-46c4-8b4c-bcfdcee330e5))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
-          (reference "J4") (unit 1)
+          (reference "J1") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Device:C") (at 147.32 69.215 0) (unit 1)
+  (symbol (lib_id "Device:C") (at 147.32 85.725 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 74e28dca-9614-4160-8fd7-29e8bba190df)
-    (property "Reference" "C12" (at 151.13 67.9449 0)
+    (property "Reference" "C12" (at 151.13 84.4549 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "220n film" (at 151.13 70.4849 0)
+    (property "Value" "220n film" (at 151.13 86.9949 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm" (at 148.2852 73.025 0)
+    (property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm" (at 148.2852 89.535 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 147.32 69.215 0)
+    (property "Datasheet" "~" (at 147.32 85.725 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 63a7c7df-045f-404c-bf59-11d8abcba219))
     (pin "2" (uuid d13baaa7-1d71-4bcb-b2d9-cabfc3b04572))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "C12") (unit 1)
         )
@@ -2799,26 +2822,26 @@
     )
   )
 
-  (symbol (lib_id "Device:R_Potentiometer_US") (at 201.93 80.645 0) (unit 1)
+  (symbol (lib_id "Device:R_Potentiometer_US") (at 201.93 97.155 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 77dd6871-7243-4441-bb10-8d8713f672cc)
-    (property "Reference" "RV3" (at 200.025 79.3749 0)
+    (property "Reference" "RV3" (at 200.025 95.8849 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "B100k" (at 200.025 81.9149 0)
+    (property "Value" "B100k" (at 200.025 98.4249 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" (at 201.93 80.645 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" (at 201.93 97.155 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 201.93 80.645 0)
+    (property "Datasheet" "~" (at 201.93 97.155 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 3d3ba089-53b4-4768-9f6f-ffa05ca1d9b1))
     (pin "2" (uuid 30bd2118-3f26-458f-bd91-b5835a7c91c3))
     (pin "3" (uuid 609ec453-72bb-4d69-8de4-11ed465c520e))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "RV3") (unit 1)
         )
@@ -2844,7 +2867,7 @@
     (pin "1" (uuid bba5a996-814f-476e-9b2e-f49907ce6acc))
     (pin "2" (uuid 00059b19-224f-446f-af97-d3a3a0d87891))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "R19") (unit 1)
         )
@@ -2852,19 +2875,19 @@
     )
   )
 
-  (symbol (lib_id "Amplifier_Operational:RC4558") (at 168.275 85.725 0) (mirror x) (unit 2)
+  (symbol (lib_id "Amplifier_Operational:RC4558") (at 168.275 102.235 0) (mirror x) (unit 2)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7c52d48c-a226-4e41-82fd-c9f8b2e3b8b3)
-    (property "Reference" "U1" (at 170.18 79.375 0)
+    (property "Reference" "U1" (at 170.18 95.885 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "RC4558" (at 170.18 81.28 0)
+    (property "Value" "RC4558" (at 170.18 97.79 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket" (at 168.275 85.725 0)
+    (property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket" (at 168.275 102.235 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "http://www.ti.com/lit/ds/symlink/rc4558.pdf" (at 168.275 85.725 0)
+    (property "Datasheet" "http://www.ti.com/lit/ds/symlink/rc4558.pdf" (at 168.275 102.235 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 943b67da-e49f-4d45-add9-43887b7c4878))
@@ -2876,7 +2899,7 @@
     (pin "4" (uuid 327332dc-aeea-4068-8fae-2c13017f9120))
     (pin "8" (uuid 74aa3346-41e6-4dea-9594-fa26fcbce85f))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "U1") (unit 2)
         )
@@ -2901,7 +2924,7 @@
     )
     (pin "1" (uuid 55feafa4-5a89-417e-b080-0debacf6eb9e))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "#PWR016") (unit 1)
         )
@@ -2926,7 +2949,7 @@
     )
     (pin "1" (uuid 4a9f7c38-8528-4d6c-a684-4d098da96c79))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "#PWR08") (unit 1)
         )
@@ -2962,7 +2985,7 @@
     (pin "2" (uuid 135f8f6f-a092-4ea6-bc0a-d28964f95b21))
     (pin "3" (uuid 166b7262-a23a-4ae6-8760-38cd8ef70ab8))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "Q2") (unit 1)
         )
@@ -2970,19 +2993,19 @@
     )
   )
 
-  (symbol (lib_id "Overdrive:3PDT-ind") (at 256.54 89.535 180) (unit 2)
+  (symbol (lib_id "Overdrive:3PDT-ind") (at 256.54 106.045 180) (unit 2)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 854d32d3-c2b1-43dd-bcf5-8f5dd1bca7e7)
-    (property "Reference" "SW1" (at 256.8575 80.645 0)
+    (property "Reference" "SW1" (at 256.8575 97.155 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Footswitch" (at 257.175 78.74 0)
+    (property "Value" "Footswitch" (at 257.175 95.25 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Switches:Footswitch" (at 256.54 89.535 0)
+    (property "Footprint" "Switches:Footswitch" (at 256.54 106.045 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 256.54 89.535 0)
+    (property "Datasheet" "" (at 256.54 106.045 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 5ab143a1-428b-46e5-9b58-ac1305b27c7d))
@@ -2995,7 +3018,7 @@
     (pin "8" (uuid 988dd658-f49f-4175-aff5-d025185e7b51))
     (pin "9" (uuid aeeb252d-2083-41c5-ab22-e4825507f9d4))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "SW1") (unit 2)
         )
@@ -3003,25 +3026,25 @@
     )
   )
 
-  (symbol (lib_id "Device:C") (at 140.97 93.345 0) (unit 1)
+  (symbol (lib_id "Device:C") (at 140.97 109.855 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 88dba8c2-b5e6-45f9-b017-dbdfac33630a)
-    (property "Reference" "C2" (at 144.78 92.0749 0)
+    (property "Reference" "C2" (at 144.78 108.5849 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "220n film" (at 144.78 94.6149 0)
+    (property "Value" "220n film" (at 144.78 111.1249 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm" (at 141.9352 97.155 0)
+    (property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm" (at 141.9352 113.665 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 140.97 93.345 0)
+    (property "Datasheet" "~" (at 140.97 109.855 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid f63446ea-468c-4800-b8f5-47bc4583efe3))
     (pin "2" (uuid b03b2601-d922-4abe-b409-dffa29f0427e))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "C2") (unit 1)
         )
@@ -3046,7 +3069,7 @@
     )
     (pin "1" (uuid b51285ee-917d-43aa-8d4e-412e18cecda0))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "#PWR023") (unit 1)
         )
@@ -3079,7 +3102,7 @@
     (pin "8" (uuid 599c037f-132b-4534-9162-85a7d38526be))
     (pin "9" (uuid 36e93c6a-fc29-40af-a473-b65a55fdbcee))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "SW1") (unit 3)
         )
@@ -3105,7 +3128,7 @@
     (pin "1" (uuid 0a76f747-1e42-4a9b-94b5-da0140af3ca0))
     (pin "2" (uuid c1982676-4d7c-4dd8-8d8b-55d2c2c06b8a))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "C6") (unit 1)
         )
@@ -3113,25 +3136,25 @@
     )
   )
 
-  (symbol (lib_id "Device:R_US") (at 147.32 76.835 0) (unit 1)
+  (symbol (lib_id "Device:R_US") (at 147.32 93.345 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a2bcb3db-d67a-456e-9974-87206855808d)
-    (property "Reference" "R3" (at 149.225 75.5649 0)
+    (property "Reference" "R3" (at 149.225 92.0749 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "220R" (at 149.225 78.1049 0)
+    (property "Value" "220R" (at 149.225 94.6149 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" (at 148.336 77.089 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" (at 148.336 93.599 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 147.32 76.835 0)
+    (property "Datasheet" "~" (at 147.32 93.345 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid bb936046-64a6-4b56-be80-e67181a9e61e))
     (pin "2" (uuid 02eda9b6-4370-48c0-bc21-e6d30bb72f2b))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "R3") (unit 1)
         )
@@ -3139,24 +3162,24 @@
     )
   )
 
-  (symbol (lib_id "power:+9V") (at 189.865 102.235 0) (unit 1)
+  (symbol (lib_id "power:+9V") (at 189.865 118.745 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a2cd5672-b80e-4401-b842-e02e96ffd39c)
-    (property "Reference" "#PWR011" (at 189.865 106.045 0)
+    (property "Reference" "#PWR011" (at 189.865 122.555 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "+9V" (at 189.865 98.425 0)
+    (property "Value" "+9V" (at 189.865 114.935 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 189.865 102.235 0)
+    (property "Footprint" "" (at 189.865 118.745 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 189.865 102.235 0)
+    (property "Datasheet" "" (at 189.865 118.745 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid b07fcfba-edf1-444a-9563-a876545f6cb8))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "#PWR011") (unit 1)
         )
@@ -3182,7 +3205,7 @@
     (pin "1" (uuid 6cebd274-3fc1-4280-9be9-71d96611dcaa))
     (pin "2" (uuid e48da017-b671-45b1-8dc1-c095dc2670de))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "R16") (unit 1)
         )
@@ -3207,7 +3230,7 @@
     )
     (pin "1" (uuid 0a472fa5-12f4-47f1-bb71-e34edf51d49f))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "#PWR012") (unit 1)
         )
@@ -3215,25 +3238,25 @@
     )
   )
 
-  (symbol (lib_id "Device:R_US") (at 238.76 86.995 90) (unit 1)
+  (symbol (lib_id "Device:R_US") (at 238.76 103.505 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a846dffa-dc29-4069-87e1-e58b1942a3b4)
-    (property "Reference" "R7" (at 238.76 82.55 90)
+    (property "Reference" "R7" (at 238.76 99.06 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "100R" (at 238.76 84.455 90)
+    (property "Value" "100R" (at 238.76 100.965 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" (at 239.014 85.979 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" (at 239.014 102.489 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 238.76 86.995 0)
+    (property "Datasheet" "~" (at 238.76 103.505 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 622aa522-da96-4588-bdb5-2f01a1f64ae6))
     (pin "2" (uuid 7965e3a4-8721-47a1-a806-05ef1f7f1b3d))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "R7") (unit 1)
         )
@@ -3265,7 +3288,7 @@
     (pin "4" (uuid 26e2937d-c992-4fe2-8231-b55926f5ec22))
     (pin "8" (uuid 2372a514-54be-4708-b6df-9f553004b401))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "U1") (unit 3)
         )
@@ -3273,24 +3296,24 @@
     )
   )
 
-  (symbol (lib_id "power:+4V") (at 201.93 76.835 0) (unit 1)
+  (symbol (lib_id "power:+4V") (at 201.93 93.345 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid aaa01861-4726-48e0-9e6b-8e1bb87601a8)
-    (property "Reference" "#PWR024" (at 201.93 80.645 0)
+    (property "Reference" "#PWR024" (at 201.93 97.155 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "+4V" (at 201.93 72.39 0)
+    (property "Value" "+4V" (at 201.93 88.9 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 201.93 76.835 0)
+    (property "Footprint" "" (at 201.93 93.345 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 201.93 76.835 0)
+    (property "Datasheet" "" (at 201.93 93.345 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid bad6b928-2aae-4a1a-a98d-35f1069106e3))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "#PWR024") (unit 1)
         )
@@ -3298,25 +3321,25 @@
     )
   )
 
-  (symbol (lib_id "Device:R_US") (at 168.91 61.595 90) (unit 1)
+  (symbol (lib_id "Device:R_US") (at 168.91 78.105 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid adea4542-7a34-45ab-80c4-84d678b2a237)
-    (property "Reference" "R1" (at 168.91 57.15 90)
+    (property "Reference" "R1" (at 168.91 73.66 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "1k" (at 168.91 59.055 90)
+    (property "Value" "1k" (at 168.91 75.565 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" (at 169.164 60.579 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" (at 169.164 77.089 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 168.91 61.595 0)
+    (property "Datasheet" "~" (at 168.91 78.105 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid e96b7904-ca44-4d1d-a78c-8eb48b2557c1))
     (pin "2" (uuid edeefbb4-1e50-4960-bed1-3b1914ea7835))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "R1") (unit 1)
         )
@@ -3342,7 +3365,7 @@
     (pin "1" (uuid b7661a17-47f4-4b31-9449-7aa3264c0362))
     (pin "2" (uuid da9b60e7-b8f6-488b-b19c-d9daf5fae880))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "C8") (unit 1)
         )
@@ -3368,7 +3391,7 @@
     (pin "1" (uuid f4660f98-314b-4175-9440-3cfea1a8b1e3))
     (pin "2" (uuid d142c403-e75b-4f95-ac78-63108e929706))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "C1") (unit 1)
         )
@@ -3376,54 +3399,24 @@
     )
   )
 
-  (symbol (lib_id "Connector_Audio:AudioJack3_Switch") (at 25.4 102.87 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid b6c6ceeb-6277-4d1b-8314-406c40b648ce)
-    (property "Reference" "J3" (at 16.51 100.965 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Value" "Stereo In" (at 18.415 97.79 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "Connector_Audio:Jack_6.35mm_Neutrik_NRJ6HM-1-AU_Horizontal" (at 25.4 102.87 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 25.4 102.87 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "R" (uuid 5fda1fdd-b7c7-4d41-8576-bb48a82649ac))
-    (pin "RN" (uuid 226c52a8-a90d-4e2d-a8cd-54fe94b9ee45))
-    (pin "S" (uuid 7f74547a-517c-4d48-bbfc-2f39004660b3))
-    (pin "SN" (uuid ae764742-87a6-47fc-90a8-41a10efc5b34))
-    (pin "T" (uuid bf12aaf4-15ca-4d92-b22b-392628d0a130))
-    (pin "TN" (uuid 9a8f6b3d-233f-4c6f-b65c-f5696985abdb))
-    (instances
-      (project "Overdrive-pedal"
-        (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
-          (reference "J3") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:GND") (at 140.97 97.155 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 140.97 113.665 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bcc50109-6a3b-4de7-9ea6-16a585a72304)
-    (property "Reference" "#PWR09" (at 140.97 103.505 0)
+    (property "Reference" "#PWR09" (at 140.97 120.015 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 140.97 100.965 0)
+    (property "Value" "GND" (at 140.97 117.475 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 140.97 97.155 0)
+    (property "Footprint" "" (at 140.97 113.665 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 140.97 97.155 0)
+    (property "Datasheet" "" (at 140.97 113.665 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid e76c3d98-7771-4c06-b42d-740fd8b47ea2))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "#PWR09") (unit 1)
         )
@@ -3431,24 +3424,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 155.575 97.155 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 155.575 113.665 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bf2bc632-c6a3-46a1-b3f6-44e4bf6a871e)
-    (property "Reference" "#PWR010" (at 155.575 103.505 0)
+    (property "Reference" "#PWR010" (at 155.575 120.015 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 155.575 100.965 0)
+    (property "Value" "GND" (at 155.575 117.475 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 155.575 97.155 0)
+    (property "Footprint" "" (at 155.575 113.665 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 155.575 97.155 0)
+    (property "Datasheet" "" (at 155.575 113.665 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 16d3c32f-13fc-4b0d-8620-93041c8fff11))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "#PWR010") (unit 1)
         )
@@ -3474,7 +3467,7 @@
     (pin "1" (uuid 7edb7267-2652-41ff-8065-72ffafc48790))
     (pin "2" (uuid c8787377-86db-4880-8550-7e2dbecec52d))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "R2") (unit 1)
         )
@@ -3482,24 +3475,24 @@
     )
   )
 
-  (symbol (lib_id "power:+9V") (at 178.435 107.315 0) (unit 1)
+  (symbol (lib_id "power:+9V") (at 178.435 123.825 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c381ca4e-477a-484f-bab3-a1029dab4227)
-    (property "Reference" "#PWR013" (at 178.435 111.125 0)
+    (property "Reference" "#PWR013" (at 178.435 127.635 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "+9V" (at 178.435 103.505 0)
+    (property "Value" "+9V" (at 178.435 120.015 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 178.435 107.315 0)
+    (property "Footprint" "" (at 178.435 123.825 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 178.435 107.315 0)
+    (property "Datasheet" "" (at 178.435 123.825 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid d77e3ddd-27a6-4696-9509-6ae166d5d4c4))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "#PWR013") (unit 1)
         )
@@ -3507,24 +3500,24 @@
     )
   )
 
-  (symbol (lib_id "power:+4V") (at 200.66 102.235 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+  (symbol (lib_id "power:+4V") (at 200.66 118.745 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid ce1c0554-7d5f-4745-82bd-ce6eaf40297a)
-    (property "Reference" "#PWR026" (at 200.66 106.045 0)
+    (property "Reference" "#PWR026" (at 200.66 122.555 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "+4V" (at 200.66 97.79 0)
+    (property "Value" "+4V" (at 200.66 114.935 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 200.66 102.235 0)
+    (property "Footprint" "" (at 200.66 118.745 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 200.66 102.235 0)
+    (property "Datasheet" "" (at 200.66 118.745 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid c9d559fc-9fea-445a-ad90-2b54988c4efa))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "#PWR026") (unit 1)
         )
@@ -3532,24 +3525,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 200.66 120.015 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 200.66 136.525 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d4287079-0c6f-44cc-b5f3-d1276efef6c3)
-    (property "Reference" "#PWR021" (at 200.66 126.365 0)
+    (property "Reference" "#PWR021" (at 200.66 142.875 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 200.66 123.825 0)
+    (property "Value" "GND" (at 200.66 140.335 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 200.66 120.015 0)
+    (property "Footprint" "" (at 200.66 136.525 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 200.66 120.015 0)
+    (property "Datasheet" "" (at 200.66 136.525 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid b76ed119-7761-4a27-a816-9393cb4d49f4))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "#PWR021") (unit 1)
         )
@@ -3557,25 +3550,25 @@
     )
   )
 
-  (symbol (lib_id "Device:R_US") (at 191.135 85.725 90) (unit 1)
+  (symbol (lib_id "Device:R_US") (at 191.135 102.235 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d6ea1ab3-4943-4b3a-acc7-486b03f6e914)
-    (property "Reference" "R5" (at 191.135 80.01 90)
+    (property "Reference" "R5" (at 191.135 96.52 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "1k" (at 191.135 82.55 90)
+    (property "Value" "1k" (at 191.135 99.06 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" (at 191.389 84.709 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" (at 191.389 101.219 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 191.135 85.725 0)
+    (property "Datasheet" "~" (at 191.135 102.235 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 32b185c2-bae6-4afd-8937-a13579532553))
     (pin "2" (uuid 9942f4cf-629f-416f-b74d-d9ba51063c96))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "R5") (unit 1)
         )
@@ -3583,24 +3576,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 147.32 80.645 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 147.32 97.155 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d938a5e8-eec0-4099-b13a-8d03f108c4bf)
-    (property "Reference" "#PWR02" (at 147.32 86.995 0)
+    (property "Reference" "#PWR02" (at 147.32 103.505 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 147.32 84.455 0)
+    (property "Value" "GND" (at 147.32 100.965 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 147.32 80.645 0)
+    (property "Footprint" "" (at 147.32 97.155 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 147.32 80.645 0)
+    (property "Datasheet" "" (at 147.32 97.155 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid d386eafa-0748-4418-81e8-2bab0c038e85))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "#PWR02") (unit 1)
         )
@@ -3626,7 +3619,7 @@
     (pin "1" (uuid 8136d775-24db-4c91-b02a-7915d58a66ff))
     (pin "2" (uuid a7f7636c-bcef-461d-ae3a-e4af849fc095))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "R12") (unit 1)
         )
@@ -3634,25 +3627,25 @@
     )
   )
 
-  (symbol (lib_id "Device:C_Polarized_US") (at 178.435 111.125 0) (unit 1)
+  (symbol (lib_id "Device:C_Polarized_US") (at 178.435 127.635 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e5ec1b8d-71df-4516-bdd1-bdb5c4448b20)
-    (property "Reference" "C10" (at 181.61 109.2199 0)
+    (property "Reference" "C10" (at 181.61 125.7299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100u" (at 181.61 111.7599 0)
+    (property "Value" "100u" (at 181.61 128.2699 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" (at 178.435 111.125 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" (at 178.435 127.635 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 178.435 111.125 0)
+    (property "Datasheet" "~" (at 178.435 127.635 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 893f01ae-33af-4638-9f5c-4267c1934dfc))
     (pin "2" (uuid 23945e33-6fca-40fd-b7e8-cc41b7cdd2da))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "C10") (unit 1)
         )
@@ -3678,7 +3671,7 @@
     (pin "1" (uuid 91c26378-7814-4392-b110-62c8c661e52e))
     (pin "2" (uuid dd7d6e52-f69e-4de1-b229-beff22164f87))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "BT1") (unit 1)
         )
@@ -3710,7 +3703,7 @@
     (pin "1" (uuid b2a2a9a8-d1b8-42b3-b035-86c0308cefbc))
     (pin "2" (uuid 5591f2d7-6414-4432-9681-009607717699))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "D2") (unit 1)
         )
@@ -3718,25 +3711,25 @@
     )
   )
 
-  (symbol (lib_id "Device:R_US") (at 214.63 85.725 0) (unit 1)
+  (symbol (lib_id "Device:R_US") (at 214.63 102.235 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f5cf5c1c-8abc-475a-bb52-e89a0b44792f)
-    (property "Reference" "R6" (at 216.535 84.4549 0)
+    (property "Reference" "R6" (at 216.535 100.9649 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "510k" (at 216.535 86.9949 0)
+    (property "Value" "510k" (at 216.535 103.5049 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" (at 215.646 85.979 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" (at 215.646 102.489 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 214.63 85.725 0)
+    (property "Datasheet" "~" (at 214.63 102.235 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 456ee16f-d5d9-4eb7-a08b-eb77478f120d))
     (pin "2" (uuid 9866ac4c-ab42-4544-b653-bfe5665a37b3))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "R6") (unit 1)
         )
@@ -3744,24 +3737,24 @@
     )
   )
 
-  (symbol (lib_id "power:+9V") (at 226.06 75.565 0) (unit 1)
+  (symbol (lib_id "power:+9V") (at 226.06 92.075 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f6630010-7da7-492c-a37d-7b264e829265)
-    (property "Reference" "#PWR01" (at 226.06 79.375 0)
+    (property "Reference" "#PWR01" (at 226.06 95.885 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "+9V" (at 226.06 71.755 0)
+    (property "Value" "+9V" (at 226.06 88.265 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 226.06 75.565 0)
+    (property "Footprint" "" (at 226.06 92.075 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 226.06 75.565 0)
+    (property "Datasheet" "" (at 226.06 92.075 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 168c4632-ed0b-4419-891f-c6bf2c368f93))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "#PWR01") (unit 1)
         )
@@ -3786,7 +3779,7 @@
     )
     (pin "1" (uuid 44a96b88-d171-4b07-ac07-d2ef6d9977ce))
     (instances
-      (project "Overdrive-pedal"
+      (project "Overdrive"
         (path "/fe0ef748-c0e2-4e36-9675-7bcda993069a"
           (reference "#PWR014") (unit 1)
         )
