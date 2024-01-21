@@ -1348,7 +1348,7 @@
       (net 3 "Net-(D1-K)") (pintype "passive") (tstamp 58eb2f09-271c-44f4-9d80-965d4b227610))
     (pad "2" thru_hole circle (at 5 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 4 "Net-(C1-Pad2)") (pintype "passive") (tstamp 311864cf-30b4-4c98-a895-bbf7be20d321))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L7.0mm_W2.0mm_P5.00mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L7.0mm_W2.0mm_P5.00mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2434,7 +2434,7 @@
       (net 21 "Net-(D3-A)") (pintype "passive") (tstamp e28c3f1e-85ba-4b57-9d94-7e2251252a2e))
     (pad "2" thru_hole oval (at 12.7 0 180) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 1 "+9V") (pintype "passive") (tstamp 745b9b0a-83d0-43a4-b9b6-3ebaed8db7ce))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2492,7 +2492,7 @@
       (net 7 "Net-(C3-Pad1)") (pintype "passive") (tstamp 46c0ecf2-7d38-4f27-9ba6-edda8c5a26c9))
     (pad "2" thru_hole circle (at 5 0 90) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 8 "Net-(Q1-B)") (pintype "passive") (tstamp bb55f646-01b9-4daa-84f3-edaaa0fa1fcd))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L7.0mm_W2.0mm_P5.00mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L7.0mm_W2.0mm_P5.00mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2550,7 +2550,7 @@
       (net 16 "Net-(Q2-E)") (pintype "passive") (tstamp 74b74acd-30c5-4806-82b1-d38adb1aef5b))
     (pad "2" thru_hole circle (at 5 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 17 "Net-(U1A-+)") (pintype "passive") (tstamp 26efdf70-075a-4ffa-b3e3-b8dc8f1d5856))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L7.0mm_W2.0mm_P5.00mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L7.0mm_W2.0mm_P5.00mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2640,7 +2640,7 @@
       (net 1 "+9V") (pintype "passive") (tstamp d627c635-141f-444f-956c-f76fa9087fa3))
     (pad "3" thru_hole roundrect (at -3 4.7 270) (size 3.5 3.5) (drill oval 3 1) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.25)
       (net 30 "Net-(BT1-+)") (pintype "passive") (tstamp 43d2f6b3-b410-4444-8a8f-eb0f64cc9778))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_BarrelJack.3dshapes/BarrelJack_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_BarrelJack.3dshapes/BarrelJack_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2706,7 +2706,7 @@
       (net 18 "Net-(C12-Pad1)") (pinfunction "2") (pintype "passive") (tstamp 2cd0f973-287f-4146-940b-19cca3b6c17e))
     (pad "3" thru_hole oval (at 0 5.08) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 5 "Net-(U1B-+)") (pinfunction "3") (pintype "passive") (tstamp a78747de-bdcc-405b-900d-35ad709a2007))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.wrl" hide
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.step" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2764,7 +2764,7 @@
       (net 14 "Net-(C8-Pad1)") (pintype "passive") (tstamp 315d9830-7984-47cc-b763-e680b4c82905))
     (pad "2" thru_hole circle (at 5 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 15 "Net-(C8-Pad2)") (pintype "passive") (tstamp 9f3690a1-cadf-495e-9c4c-94586eca5bfb))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L7.0mm_W2.0mm_P5.00mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L7.0mm_W2.0mm_P5.00mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3080,7 +3080,7 @@
       (net 29 "+4V") (pintype "passive") (tstamp ad814901-c581-43b2-aca8-95e73300f941))
     (pad "2" thru_hole circle (at 2.5 0 90) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 6 "GND") (pintype "passive") (tstamp 7dc7894b-7ffb-45b8-bd81-ae661f5fa3a9))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D6.3mm_P2.50mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D6.3mm_P2.50mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3146,7 +3146,7 @@
       (net 7 "Net-(C3-Pad1)") (pinfunction "2") (pintype "passive") (tstamp c0ade72e-5583-4248-81d1-91f466f5f7d1))
     (pad "3" thru_hole oval (at 0 5.08) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 27 "Net-(R5-Pad2)") (pinfunction "3") (pintype "passive") (tstamp 973c1673-aadb-4d2d-a080-b41ca5bbb039))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.wrl" hide
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.step" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3642,7 +3642,7 @@
       (net 13 "Net-(D1-A)") (pintype "passive") (tstamp 9c66855e-9874-4caf-a90f-2ae8a1c35462))
     (pad "2" thru_hole oval (at 12.7 0 90) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 5 "Net-(U1B-+)") (pintype "passive") (tstamp bbf2f5e3-974f-431c-8bd4-d0fe198a6bd2))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3700,7 +3700,7 @@
       (net 5 "Net-(U1B-+)") (pintype "passive") (tstamp 8299ffae-2ffc-49e1-945a-3914fffb0994))
     (pad "2" thru_hole circle (at 5 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 6 "GND") (pintype "passive") (tstamp a122bad7-88cc-4b02-986f-6b96c91a1cf7))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L7.0mm_W2.0mm_P5.00mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L7.0mm_W2.0mm_P5.00mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -12363,7 +12363,7 @@
       (net 24 "Net-(Q2-B)") (pinfunction "B") (pintype "input") (tstamp abd754cc-6a73-4689-a8e9-39f56a5c73e2))
     (pad "3" thru_hole oval (at 2.54 0) (size 1.05 1.5) (drill 0.75) (layers "*.Cu" "*.Mask")
       (net 16 "Net-(Q2-E)") (pinfunction "E") (pintype "open_emitter") (tstamp 03930a11-9a84-4984-a9c1-a712b316e1fc))
-    (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-92_Inline.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-92_Inline.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -12419,7 +12419,7 @@
       (net 20 "Net-(D3-K)") (pinfunction "K") (pintype "passive") (tstamp 3284cc90-6831-433a-85d7-db187e8a26cc))
     (pad "2" thru_hole circle (at 2.54 0 90) (size 1.8 1.8) (drill 0.9) (layers "*.Cu" "*.Mask")
       (net 21 "Net-(D3-A)") (pinfunction "A") (pintype "passive") (tstamp 793eb5a8-0f05-43b4-b91d-d54c7d3d95b8))
-    (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -12485,7 +12485,7 @@
       (net 23 "Net-(Q1-E)") (pintype "passive") (tstamp fac1ef1c-a36f-417e-a780-cc14cdafe3b3))
     (pad "2" thru_hole oval (at 12.7 0 90) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 11 "Net-(C5-Pad1)") (pintype "passive") (tstamp 36a571fa-7a93-44b9-bc3f-2a1bed697700))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -12551,7 +12551,7 @@
       (net 5 "Net-(U1B-+)") (pintype "passive") (tstamp ca268c2f-e46d-4e90-b044-3a9d1cda37c1))
     (pad "2" thru_hole oval (at 12.7 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 6 "GND") (pintype "passive") (tstamp c71f1f05-26f6-46c0-81de-86b33921cbb3))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -12617,7 +12617,7 @@
       (net 8 "Net-(Q1-B)") (pintype "passive") (tstamp c8ac7743-8f8c-41b2-9d30-bf6ddedcac81))
     (pad "2" thru_hole oval (at 12.7 0 90) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 29 "+4V") (pintype "passive") (tstamp c2ed3eb3-cd30-4517-b169-657e0c31d5fc))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -12933,7 +12933,7 @@
       (net 11 "Net-(C5-Pad1)") (pintype "passive") (tstamp dc68257d-5ea1-4f3b-a125-69e28f0b1d5a))
     (pad "2" thru_hole circle (at 2.5 0 270) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 12 "Net-(C5-Pad2)") (pintype "passive") (tstamp d23af15b-84b9-4e28-9ff2-c847a52d4007))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D6.3mm_P2.50mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D6.3mm_P2.50mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -13013,7 +13013,7 @@
       (net 6 "GND") (pintype "passive") (tstamp ee32c400-631c-453a-a960-4837f4271553))
     (pad "TN" thru_hole circle (at 0 11.43 180) (size 3 3) (drill 1.5) (layers "*.Cu" "*.Mask")
       (net 6 "GND") (pintype "passive") (tstamp c7ff709a-fa6b-44f0-867f-bbacb81ce2fa))
-    (model "D:/dev/Overdrive/3D Models/NEUTRIKJKST.wrl"
+    (model "D:/dev/Overdrive/3D Models/NEUTRIKJKST.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 0.7 0.7))
       (rotate (xyz 0 0 0))
@@ -13075,7 +13075,7 @@
       (net 3 "Net-(D1-K)") (pintype "passive") (tstamp 936bfc99-ec2f-455c-ad08-202be6d8aff5))
     (pad "2" thru_hole circle (at 5 0 270) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 13 "Net-(D1-A)") (pintype "passive") (tstamp ab6e8911-4c59-4ddf-a510-f99fe6e88ab0))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D5.0mm_W2.5mm_P5.00mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D5.0mm_W2.5mm_P5.00mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -13172,7 +13172,7 @@
       (net 25 "Net-(U1B--)") (pintype "passive") (tstamp f945dc9f-d155-4dac-9813-ea2380bf0f5d))
     (pad "2" thru_hole oval (at 12.7 0 180) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 9 "Net-(C4-Pad1)") (pintype "passive") (tstamp 2a9f5228-cbe5-40ef-866a-80668a422526))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -13238,7 +13238,7 @@
       (net 24 "Net-(Q2-B)") (pintype "passive") (tstamp 3136970b-5c03-4baf-ba1d-82f98578d0ea))
     (pad "2" thru_hole oval (at 12.7 0 270) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 6 "GND") (pintype "passive") (tstamp c80df9cb-e0ae-410a-a8a5-ccea2a217bec))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -13296,7 +13296,7 @@
       (net 9 "Net-(C4-Pad1)") (pintype "passive") (tstamp 2bd65cf6-1dd9-4d5b-8912-aba83d1264f9))
     (pad "2" thru_hole circle (at 5 0 180) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 10 "Net-(C4-Pad2)") (pintype "passive") (tstamp 5a9eed45-6ce4-4f73-95b3-ff68af8e82e8))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L7.0mm_W2.0mm_P5.00mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L7.0mm_W2.0mm_P5.00mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -13384,7 +13384,7 @@
       (net 13 "Net-(D1-A)") (pinfunction "K") (pintype "passive") (tstamp 23e0b85e-5ca3-4eb4-b15b-d6ff72346d01))
     (pad "2" thru_hole oval (at 10.16 0 270) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 3 "Net-(D1-K)") (pinfunction "A") (pintype "passive") (tstamp 116ca333-9b5d-42d7-bf09-09cabe43932b))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P10.16mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P10.16mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -13448,7 +13448,7 @@
       (net 30 "Net-(BT1-+)") (pinfunction "+") (pintype "passive") (tstamp 7dd25e3b-16b2-4044-9d04-e80eefc0c5e7))
     (pad "2" thru_hole oval (at 0 2.54) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 2 "Net-(BT1--)") (pinfunction "-") (pintype "passive") (tstamp 3efdc987-0f5c-49d3-9783-f712d8809629))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x02_P2.54mm_Vertical.wrl" hide
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x02_P2.54mm_Vertical.step" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -13514,7 +13514,7 @@
       (net 10 "Net-(C4-Pad2)") (pintype "passive") (tstamp cce65896-fb23-48e0-a271-79e6377c862d))
     (pad "2" thru_hole oval (at 12.7 0 270) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 27 "Net-(R5-Pad2)") (pintype "passive") (tstamp 47abaa69-9296-4c19-9e3d-b23470914ed4))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -13580,7 +13580,7 @@
       (net 15 "Net-(C8-Pad2)") (pintype "passive") (tstamp 70aa2354-e342-4362-92a6-d5af4146ab80))
     (pad "2" thru_hole oval (at 12.7 0 90) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 24 "Net-(Q2-B)") (pintype "passive") (tstamp a1b7fbc6-035a-4791-83d3-15e93ffd1d8a))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -13646,7 +13646,7 @@
       (net 12 "Net-(C5-Pad2)") (pintype "passive") (tstamp a99d595b-5340-40fe-b420-fde68f454d8e))
     (pad "2" thru_hole oval (at 12.7 0 270) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 6 "GND") (pintype "passive") (tstamp 10b41a3c-13c1-458e-8102-e190250b80da))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -13705,7 +13705,7 @@
       (net 8 "Net-(Q1-B)") (pinfunction "B") (pintype "input") (tstamp 18a8ff93-d2a2-461e-9310-94764846471a))
     (pad "3" thru_hole oval (at 2.54 0) (size 1.05 1.5) (drill 0.75) (layers "*.Cu" "*.Mask")
       (net 23 "Net-(Q1-E)") (pinfunction "E") (pintype "open_emitter") (tstamp 552f3427-3f43-4b51-956c-2dacba2260c4))
-    (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-92_Inline.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-92_Inline.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -13771,7 +13771,7 @@
       (net 17 "Net-(U1A-+)") (pintype "passive") (tstamp 1a8a0898-2788-48b5-88dc-9a1657c31a01))
     (pad "2" thru_hole oval (at 12.7 0 270) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 6 "GND") (pintype "passive") (tstamp a6a7ce3b-01fc-4dac-a9cb-b88baded1444))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -13837,7 +13837,7 @@
       (net 1 "+9V") (pintype "passive") (tstamp ea8fdd46-85b7-474b-9f3f-08c1414c36e3))
     (pad "2" thru_hole oval (at 12.7 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 29 "+4V") (pintype "passive") (tstamp 225ff352-c97a-498d-955e-8ab6cb641ab2))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -13903,7 +13903,7 @@
       (net 14 "Net-(C8-Pad1)") (pintype "passive") (tstamp e5e561d5-6f52-453c-b00c-21975dae21b6))
     (pad "2" thru_hole oval (at 12.7 0 270) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 6 "GND") (pintype "passive") (tstamp 533e04e0-3d29-46f2-b241-29ea27516a96))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -13961,7 +13961,7 @@
       (net 18 "Net-(C12-Pad1)") (pintype "passive") (tstamp f8162394-bc1e-4242-843b-be4b2a0ef236))
     (pad "2" thru_hole circle (at 5 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 19 "Net-(C12-Pad2)") (pintype "passive") (tstamp aa2630f8-29da-4143-89e6-e3a8cea544d7))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L7.0mm_W2.0mm_P5.00mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L7.0mm_W2.0mm_P5.00mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -14027,7 +14027,7 @@
       (net 19 "Net-(C12-Pad2)") (pintype "passive") (tstamp 5eee8ee0-bbc7-4763-8d59-758064bbebde))
     (pad "2" thru_hole oval (at 12.7 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 6 "GND") (pintype "passive") (tstamp 5e2d764b-1848-41ac-a387-7004df67c500))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -14093,7 +14093,7 @@
       (net 29 "+4V") (pintype "passive") (tstamp 83f972f1-9475-4583-86e8-33d8f015a818))
     (pad "2" thru_hole oval (at 12.7 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 6 "GND") (pintype "passive") (tstamp a5fd18d9-e905-4326-be1c-4d2a71f32af7))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -14159,7 +14159,7 @@
       (net 23 "Net-(Q1-E)") (pintype "passive") (tstamp 28a1cfe7-7e74-42bb-a056-5eb7cdcce0eb))
     (pad "2" thru_hole oval (at 12.7 0 270) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 6 "GND") (pintype "passive") (tstamp 03e774c2-52cb-47b0-a595-df264ce09b49))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -14225,7 +14225,7 @@
       (net 4 "Net-(C1-Pad2)") (pintype "passive") (tstamp 2afd529e-b2d5-49a6-9f05-cf1a4671e76e))
     (pad "2" thru_hole oval (at 12.7 0 90) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 29 "+4V") (pintype "passive") (tstamp 38fd1050-220f-4ebe-974c-09620818871d))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -14541,7 +14541,7 @@
       (net 1 "+9V") (pintype "passive") (tstamp b2633150-39f0-454a-94c8-e94873045cc5))
     (pad "2" thru_hole circle (at 2.5 0 270) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 6 "GND") (pintype "passive") (tstamp 89fdeaa3-1f05-43f3-b482-1e90e9833312))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D6.3mm_P2.50mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D6.3mm_P2.50mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -14607,7 +14607,7 @@
       (net 3 "Net-(D1-K)") (pintype "passive") (tstamp 82e76fb5-011e-4c45-911e-b291b88297e0))
     (pad "2" thru_hole oval (at 12.7 0 270) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 26 "Net-(R4-Pad2)") (pintype "passive") (tstamp 2ab07e5b-f786-4fd8-a259-b8428a588eb6))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -14695,7 +14695,7 @@
       (net 3 "Net-(D1-K)") (pinfunction "K") (pintype "passive") (tstamp ec41c6f9-b2c8-422b-a4c4-ee340bb055b8))
     (pad "2" thru_hole oval (at 10.16 0 90) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 13 "Net-(D1-A)") (pinfunction "A") (pintype "passive") (tstamp 8aa0cbaf-29a8-47f7-82af-6067fcf80d27))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P10.16mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P10.16mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -14761,7 +14761,7 @@
       (net 13 "Net-(D1-A)") (pinfunction "2") (pintype "passive") (tstamp aa5d39ab-a31b-46da-8b86-b62c093dcf0e))
     (pad "3" thru_hole oval (at 0 5.08 180) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 13 "Net-(D1-A)") (pinfunction "3") (pintype "passive") (tstamp 45af5708-413d-426d-8249-08ad912d90e3))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.wrl" hide
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.step" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -14884,7 +14884,7 @@
       (net 9 "Net-(C4-Pad1)") (pintype "output") (tstamp 9d606829-3728-4298-9959-620558d5e015))
     (pad "8" thru_hole oval (at 7.62 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 1 "+9V") (pinfunction "V+") (pintype "power_in") (tstamp becb8dd4-727d-4445-9f71-f6dfc387c489))
-    (model "${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-8_W7.62mm_Socket.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-8_W7.62mm_Socket.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -14981,7 +14981,7 @@
       (net 16 "Net-(Q2-E)") (pintype "passive") (tstamp ab069c69-66a7-409d-b05d-37ca0a0ffe72))
     (pad "2" thru_hole oval (at 12.7 0 270) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 6 "GND") (pintype "passive") (tstamp 0429a9e6-3dbf-46df-87dc-5d99a889c4aa))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -15061,7 +15061,7 @@
       (net 22 "Net-(J3-PadR)") (pintype "passive") (tstamp f1d29fbd-265c-469e-ab7f-d5d9cd405762))
     (pad "TN" thru_hole circle (at 0 11.43) (size 3 3) (drill 1.5) (layers "*.Cu" "*.Mask")
       (net 22 "Net-(J3-PadR)") (pintype "passive") (tstamp 26e3f9be-15f5-4948-ade7-6ab4fc1e4ff5))
-    (model "D:/dev/Overdrive/3D Models/NEUTRIKJKST.wrl"
+    (model "D:/dev/Overdrive/3D Models/NEUTRIKJKST.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 0.7 0.7))
       (rotate (xyz 0 0 0))
@@ -15074,11 +15074,11 @@
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at 0 0 90) (layer "B.SilkS") hide
         (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
-      (tstamp 759abec0-9672-4ecc-8727-b3b123cf1a9d)
+      (tstamp 9da45a43-f1c4-4303-a00f-a3b3a8b21eac)
     )
     (fp_text value "LOGO" (at 0.75 0 90) (layer "B.SilkS") hide
         (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
-      (tstamp b7b92c42-80d5-4914-a0eb-fb7a27a0d2d5)
+      (tstamp 10cc46c7-5039-4f97-be8f-1cf0447c23db)
     )
     (fp_poly
       (pts
@@ -15091,7 +15091,7 @@
         (xy 4.134929 1.181501)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp f2caf6c9-0b35-4cb6-9f2b-e6fde28977e0))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 86667c17-4610-4117-9f46-2e29c31e13a9))
     (fp_poly
       (pts
         (xy -24.93494 3.551606)
@@ -15104,7 +15104,7 @@
         (xy -24.964024 3.560145)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 83750b07-bb5d-4731-a9de-2ee4b1dc38e7))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 31a078f1-49c3-4633-8a45-e0201852123d))
     (fp_poly
       (pts
         (xy -16.799056 2.63616)
@@ -15117,7 +15117,7 @@
         (xy -16.83091 2.658867)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 9066e66c-16d7-41f4-b0cc-cda79fd26dfd))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp ef6c5d15-00fe-457f-95a6-239c6186e1c1))
     (fp_poly
       (pts
         (xy -15.988012 0.975649)
@@ -15130,7 +15130,7 @@
         (xy -16.015763 1.000985)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 3bf6b039-9213-46d1-8b2d-86e423dfa6f4))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 8736e2a5-1a88-447c-a170-95e5e0a855f3))
     (fp_poly
       (pts
         (xy -15.859383 1.119587)
@@ -15143,7 +15143,7 @@
         (xy -15.869075 1.148079)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 84cd8293-fb48-47a1-ac5e-a56fb14cb9b7))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp d7776e81-8462-4780-a6b8-ab799f89af85))
     (fp_poly
       (pts
         (xy -13.392394 5.778569)
@@ -15156,7 +15156,7 @@
         (xy -13.408035 5.8161)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 4bf4418d-f735-4557-9983-a32f5f713015))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp f159d180-d3d2-4b63-b2fd-4b93cd0022fa))
     (fp_poly
       (pts
         (xy -8.571778 0.883284)
@@ -15169,7 +15169,7 @@
         (xy -8.600371 0.907143)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 681afd34-1eae-4531-aa43-3aefc7edaa72))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 29e6bf59-6c40-4063-9824-8cd0c08b0961))
     (fp_poly
       (pts
         (xy -8.423968 1.150782)
@@ -15182,7 +15182,7 @@
         (xy -8.461361 1.180601)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp d009c464-6d0e-4c79-bbd5-546482c3f833))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 916e7319-0442-4673-9e5b-7b1679b7feca))
     (fp_poly
       (pts
         (xy -4.529979 0.475989)
@@ -15195,7 +15195,7 @@
         (xy -4.551124 0.492312)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 202287fb-9694-401b-9288-4d309d676a05))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 4207e10d-ec60-4e5b-b738-4e10d199bdd3))
     (fp_poly
       (pts
         (xy -1.06884 4.737789)
@@ -15208,7 +15208,7 @@
         (xy -1.110468 4.75468)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 8f3d71a6-a74d-4bc5-a262-77a94144c9b5))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 8b47c9de-b0e6-47b9-a8f1-371fae002d8e))
     (fp_poly
       (pts
         (xy 5.844214 4.550104)
@@ -15221,7 +15221,7 @@
         (xy 5.802586 4.566995)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp c38e7b20-55bd-4031-b13e-5a9bf07727c5))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 3909b11f-f477-42e2-acb2-24c0dd47049f))
     (fp_poly
       (pts
         (xy 5.99418 4.585176)
@@ -15234,7 +15234,7 @@
         (xy 5.94335 4.598276)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 631a67ba-ee40-4aa7-91de-3dc981e028a4))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 9fbe3b64-5efc-4c22-8e92-4a8675b9ced9))
     (fp_poly
       (pts
         (xy 16.170895 2.63616)
@@ -15247,7 +15247,7 @@
         (xy 16.139041 2.658867)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 9497ffe7-1d4a-43d2-a27d-0d0e0d747db1))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp b4a3df55-c4c8-473f-9905-9e0d75c28835))
     (fp_poly
       (pts
         (xy 16.981939 0.975649)
@@ -15260,7 +15260,7 @@
         (xy 16.954187 1.000985)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 3d0bb35d-743a-4a05-b2b5-5bca4c833acc))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 2804c7c2-293a-4e97-9034-2816d7216b53))
     (fp_poly
       (pts
         (xy 17.110568 1.119587)
@@ -15273,7 +15273,7 @@
         (xy 17.100876 1.148079)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 426eb7c3-dcd0-4328-b965-f346673a45f8))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 030b4c17-b88a-4229-9721-3b404d65d1aa))
     (fp_poly
       (pts
         (xy 19.577556 5.778569)
@@ -15286,7 +15286,7 @@
         (xy 19.561916 5.8161)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp afe206a6-e426-49da-909e-4f948bd56143))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp b3cc8b6e-254a-41b2-af4c-e714f60f7177))
     (fp_poly
       (pts
         (xy 24.398172 0.883284)
@@ -15299,7 +15299,7 @@
         (xy 24.36958 0.907143)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 54166360-ecd5-442d-b61c-d8c1fff3fe6b))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 8089d5bb-5614-484e-afaf-86ac87bcc441))
     (fp_poly
       (pts
         (xy 26.712884 4.605753)
@@ -15312,7 +15312,7 @@
         (xy 26.682512 4.629557)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 8fffb538-cb2f-4237-8c2c-821af185c796))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp f74e772a-4245-48ba-8248-7c4184f529cd))
     (fp_poly
       (pts
         (xy -25.356633 0.081817)
@@ -15326,7 +15326,7 @@
         (xy -25.386164 0.083033)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp e862352e-499c-49a7-8a97-6e5558c9f3c7))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 739e8c72-8acc-473e-9a7e-e3ab16dedcc6))
     (fp_poly
       (pts
         (xy -21.979301 1.223677)
@@ -15340,7 +15340,7 @@
         (xy -22.013447 1.241334)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp bb628631-5c3a-436a-9002-8e67c2e82c56))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 49895ab8-5106-4729-8bcd-7464656d482c))
     (fp_poly
       (pts
         (xy 16.170086 2.894759)
@@ -15354,7 +15354,7 @@
         (xy 16.145665 2.906093)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 7952b621-4177-4c70-af57-4cde7c8197fc))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp f8d14cfd-6d7e-4b4d-9f94-3ed905ceefc6))
     (fp_poly
       (pts
         (xy -20.27299 4.054524)
@@ -15369,7 +15369,7 @@
         (xy -20.308383 4.083461)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 68bfa535-f967-4de6-8903-302508e9cd94))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp a5487d55-6455-437b-a63d-761ec7ee4593))
     (fp_poly
       (pts
         (xy -16.789544 2.884171)
@@ -15384,7 +15384,7 @@
         (xy -16.831429 2.909113)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 9d7e726d-a725-4396-9553-e3c7bb53756b))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 44876fe0-909d-488a-b893-0e9757075a0e))
     (fp_poly
       (pts
         (xy -8.246213 0.305727)
@@ -15399,7 +15399,7 @@
         (xy -8.277678 0.311583)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp f1c92db1-3d12-44c8-8b24-4b4941b13eb7))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 5de9229c-ef27-4642-8756-4e47c0bf6945))
     (fp_poly
       (pts
         (xy -7.572734 -0.681964)
@@ -15414,7 +15414,7 @@
         (xy -7.600131 -0.656897)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp b2c07744-eb9f-458e-8a8a-0c962f5adf2c))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp a0f73baf-95a0-47a4-a3dc-462bc4df79db))
     (fp_poly
       (pts
         (xy 24.707913 0.311435)
@@ -15432,7 +15432,7 @@
         (xy 24.70782 0.311436)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 017b755c-dc28-49a9-96c7-f6f8b98d3175))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 01262bb2-0b4c-4897-93fb-92d3f6b98c90))
     (fp_poly
       (pts
         (xy -23.179971 -1.225799)
@@ -15451,7 +15451,7 @@
         (xy -23.207079 -1.20106)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 6cf17946-b798-4207-a0aa-e3c10ab524e1))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 730bd020-d2c0-4a04-bd97-ba4c90c396e8))
     (fp_poly
       (pts
         (xy -0.608968 4.956036)
@@ -15473,7 +15473,7 @@
         (xy -0.6795 4.962442)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 16ab2304-921e-4423-91ba-0a4821fcaa9c))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 095b8ca3-44b9-4df5-82da-d3e5887981a2))
     (fp_poly
       (pts
         (xy 25.44477 0.379458)
@@ -15495,7 +15495,7 @@
         (xy 25.394456 0.386144)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp d2814670-cb69-40e6-a852-bd47648c14cc))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp e1fc66f2-86a4-42f3-9f3a-dffcd2671c15))
     (fp_poly
       (pts
         (xy 14.213269 8.022864)
@@ -15679,7 +15679,7 @@
         (xy 14.119657 8.058078)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp c4671316-d794-4f3e-92b8-5c1e657d9e6d))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 0fbc9af2-503a-4f10-bd1d-af464fcaf83d))
     (fp_poly
       (pts
         (xy -20.80227 5.477611)
@@ -16437,7 +16437,7 @@
         (xy -21.03633 5.482482)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 19209df9-9965-425a-b431-f30d6bac335a))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp ebafe00e-1174-4422-b802-af61a3f4acf6))
     (fp_poly
       (pts
         (xy 7.867118 5.479103)
@@ -18008,7 +18008,7 @@
         (xy 7.779925 5.480687)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp fa261c13-e8a6-4084-998b-8a16612bc9c3))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp f4fcaf6f-2118-4e8c-ad7c-f657b68af531))
     (fp_poly
       (pts
         (xy 21.333439 5.925406)
@@ -19781,7 +19781,7 @@
         (xy 21.32003 5.942762)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp d4eb0987-b6d8-4a47-b4e8-baa14fe8520b))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 2469908c-5e8c-49ac-815f-7e1a63ecb208))
     (fp_poly
       (pts
         (xy -11.636453 5.928564)
@@ -23669,7 +23669,7 @@
         (xy -11.646835 5.938439)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 93aceb99-16e7-4e70-ac7c-8492da88b546))
+      (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 79027894-93bb-44b6-9da6-8d051e753f75))
   )
 
   (gr_arc (start 91 153.5) (mid 89.585786 152.914214) (end 89 151.5)
